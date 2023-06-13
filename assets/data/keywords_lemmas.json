@@ -1,0 +1,5486 @@
+{
+    "CIENCIA_NATURALEZA": {
+        "processed_text": [
+            "animal",
+            "naturaleza",
+            "ciencia",
+            "rayo",
+            "science",
+            "nature",
+            "bosques",
+            "ecosistema",
+            "oxigeno",
+            "tierra",
+            "planeta",
+            "ecologismo",
+            "sostenibilidad",
+            "life",
+            "vida",
+            "volcan",
+            "mar",
+            "montana"
+        ],
+        "animales": {
+            "text": "animales",
+            "lemma": "animal",
+            "pos": "NOUN"
+        },
+        "naturaleza": {
+            "text": "naturaleza",
+            "lemma": "naturaleza",
+            "pos": "NOUN"
+        },
+        "ciencia": {
+            "text": "ciencia",
+            "lemma": "ciencia",
+            "pos": "NOUN"
+        },
+        "rayo": {
+            "text": "rayo",
+            "lemma": "rayo",
+            "pos": "NOUN"
+        },
+        "science": {
+            "text": "science",
+            "lemma": "science",
+            "pos": "PROPN"
+        },
+        "nature": {
+            "text": "nature",
+            "lemma": "nature",
+            "pos": "PROPN"
+        },
+        "bosques": {
+            "text": "bosques",
+            "lemma": "bosque",
+            "pos": "NOUN"
+        },
+        "biosfera": {
+            "text": "biosfera",
+            "lemma": "biosfera",
+            "pos": "NOUN"
+        },
+        "ecosistema": {
+            "text": "ecosistema",
+            "lemma": "ecosistema",
+            "pos": "NOUN"
+        },
+        "co2": {
+            "text": "co2",
+            "lemma": "co2",
+            "pos": "PROPN"
+        },
+        "oxigeno": {
+            "text": "oxigeno",
+            "lemma": "oxigeno",
+            "pos": "NOUN"
+        },
+        "climatico": {
+            "text": "climatico",
+            "lemma": "climatico",
+            "pos": "ADJ"
+        },
+        "tierra": {
+            "text": "tierra",
+            "lemma": "tierra",
+            "pos": "NOUN"
+        },
+        "planeta": {
+            "text": "planeta",
+            "lemma": "planeta",
+            "pos": "NOUN"
+        },
+        "ecologia": {
+            "text": "ecologia",
+            "lemma": "ecologia",
+            "pos": "PROPN"
+        },
+        "ecologismo": {
+            "text": "ecologismo",
+            "lemma": "ecologismo",
+            "pos": "NOUN"
+        },
+        "sostenibilidad": {
+            "text": "sostenibilidad",
+            "lemma": "sostenibilidad",
+            "pos": "NOUN"
+        },
+        "medioambiente": {
+            "text": "medioambiente",
+            "lemma": "medioambiente",
+            "pos": "ADJ"
+        },
+        "life": {
+            "text": "life",
+            "lemma": "life",
+            "pos": "PROPN"
+        },
+        "vida": {
+            "text": "vida",
+            "lemma": "vida",
+            "pos": "NOUN"
+        },
+        "volcanes": {
+            "text": "volcanes",
+            "lemma": "volc\u00e1n",
+            "pos": "NOUN"
+        },
+        "oceanos": {
+            "text": "oceanos",
+            "lemma": "oceano",
+            "pos": "ADJ"
+        },
+        "mares": {
+            "text": "mares",
+            "lemma": "mar",
+            "pos": "NOUN"
+        },
+        "monta\u00f1as": {
+            "text": "monta\u00f1as",
+            "lemma": "monta\u00f1a",
+            "pos": "NOUN"
+        }
+    },
+    "CULTURA": {
+        "processed_text": [
+            "libro",
+            "teatro",
+            "escritor",
+            "estreno",
+            "festival",
+            "ocio",
+            "actor",
+            "cine",
+            "autor",
+            "plan",
+            "entretenimiento"
+        ],
+        "libros": {
+            "text": "libros",
+            "lemma": "libro",
+            "pos": "NOUN"
+        },
+        "teatro": {
+            "text": "teatro",
+            "lemma": "teatro",
+            "pos": "NOUN"
+        },
+        "escritores": {
+            "text": "escritores",
+            "lemma": "escritor",
+            "pos": "NOUN"
+        },
+        "estrenos": {
+            "text": "estrenos",
+            "lemma": "estreno",
+            "pos": "NOUN"
+        },
+        "festivales": {
+            "text": "festivales",
+            "lemma": "festival",
+            "pos": "NOUN"
+        },
+        "ocio": {
+            "text": "ocio",
+            "lemma": "ocio",
+            "pos": "NOUN"
+        },
+        "cultura": {
+            "text": "cultura",
+            "lemma": "cultura",
+            "pos": "NOUN"
+        },
+        "actores": {
+            "text": "actores",
+            "lemma": "actor",
+            "pos": "NOUN"
+        },
+        "cine": {
+            "text": "cine",
+            "lemma": "cine",
+            "pos": "NOUN"
+        },
+        "autores": {
+            "text": "autores",
+            "lemma": "autor",
+            "pos": "NOUN"
+        },
+        "actrices": {
+            "text": "actrices",
+            "lemma": "actriz",
+            "pos": "NOUN"
+        },
+        "guionista": {
+            "text": "guionista",
+            "lemma": "guionista",
+            "pos": "NOUN"
+        },
+        "planes": {
+            "text": "planes",
+            "lemma": "plan",
+            "pos": "NOUN"
+        },
+        "entretenimiento": {
+            "text": "entretenimiento",
+            "lemma": "entretenimiento",
+            "pos": "NOUN"
+        }
+    },
+    "DEPORTES": {
+        "processed_text": [
+            "futbol",
+            "basket",
+            "deportes",
+            "badminton",
+            "tenis",
+            "natacion",
+            "padel",
+            "surf",
+            "motogp",
+            "moto",
+            "coche",
+            "toros",
+            "esports",
+            "gaming",
+            "fifa",
+            "champions",
+            "liga",
+            "almeria",
+            "athletic",
+            "atletico",
+            "barcelona",
+            "celta",
+            "cadiz",
+            "elche",
+            "espanyol",
+            "getafe",
+            "girona",
+            "mallorca",
+            "osasuna",
+            "vallecano",
+            "real",
+            "betis",
+            "madrid",
+            "sociedad",
+            "valladolid",
+            "sevilla",
+            "valencia",
+            "vllarreal",
+            "nba",
+            "wimbledon",
+            "lakers"
+        ],
+        "futbol": {
+            "text": "futbol",
+            "lemma": "futbol",
+            "pos": "NOUN"
+        },
+        "baloncesto": {
+            "text": "baloncesto",
+            "lemma": "baloncesto",
+            "pos": "NOUN"
+        },
+        "basket": {
+            "text": "basket",
+            "lemma": "basket",
+            "pos": "PROPN"
+        },
+        "deportes": {
+            "text": "deportes",
+            "lemma": "deporte",
+            "pos": "NOUN"
+        },
+        "badminton": {
+            "text": "badminton",
+            "lemma": "badminton",
+            "pos": "PROPN"
+        },
+        "tenis": {
+            "text": "tenis",
+            "lemma": "tenis",
+            "pos": "NOUN"
+        },
+        "natacion": {
+            "text": "natacion",
+            "lemma": "natacion",
+            "pos": "PROPN"
+        },
+        "padel": {
+            "text": "padel",
+            "lemma": "padel",
+            "pos": "NOUN"
+        },
+        "surf": {
+            "text": "surf",
+            "lemma": "surf",
+            "pos": "NOUN"
+        },
+        "formula": {
+            "text": "formula",
+            "lemma": "formular",
+            "pos": "VERB"
+        },
+        "motogp": {
+            "text": "motogp",
+            "lemma": "motogp",
+            "pos": "PROPN"
+        },
+        "motos": {
+            "text": "motos",
+            "lemma": "moto",
+            "pos": "NOUN"
+        },
+        "coches": {
+            "text": "coches",
+            "lemma": "coche",
+            "pos": "NOUN"
+        },
+        "pesca": {
+            "text": "pesca",
+            "lemma": "pesca",
+            "pos": "NOUN"
+        },
+        "caza": {
+            "text": "caza",
+            "lemma": "cazar",
+            "pos": "VERB"
+        },
+        "toros": {
+            "text": "toros",
+            "lemma": "toro",
+            "pos": "NOUN"
+        },
+        "esports": {
+            "text": "esports",
+            "lemma": "esport",
+            "pos": "NOUN"
+        },
+        "gaming": {
+            "text": "gaming",
+            "lemma": "gaming",
+            "pos": "NOUN"
+        },
+        "fifa": {
+            "text": "fifa",
+            "lemma": "fifa",
+            "pos": "PROPN"
+        },
+        "champions": {
+            "text": "champions",
+            "lemma": "champion",
+            "pos": "NOUN"
+        },
+        "premier": {
+            "text": "premier",
+            "lemma": "premier",
+            "pos": "NOUN"
+        },
+        "liga": {
+            "text": "liga",
+            "lemma": "liga",
+            "pos": "NOUN"
+        },
+        "Almer\u00eda": {
+            "text": "Almer\u00eda",
+            "lemma": "Almer\u00eda",
+            "pos": "PROPN"
+        },
+        "Athletic": {
+            "text": "Athletic",
+            "lemma": "Athletic",
+            "pos": "PROPN"
+        },
+        "Atletico": {
+            "text": "Atletico",
+            "lemma": "Atletico",
+            "pos": "PROPN"
+        },
+        "Barcelona": {
+            "text": "Barcelona",
+            "lemma": "Barcelona",
+            "pos": "PROPN"
+        },
+        "Celta": {
+            "text": "Celta",
+            "lemma": "Celta",
+            "pos": "PROPN"
+        },
+        "Cadiz": {
+            "text": "Cadiz",
+            "lemma": "Cadiz",
+            "pos": "PROPN"
+        },
+        "Elche": {
+            "text": "Elche",
+            "lemma": "Elche",
+            "pos": "PROPN"
+        },
+        "Espanyol": {
+            "text": "Espanyol",
+            "lemma": "Espanyol",
+            "pos": "PROPN"
+        },
+        "Getafe": {
+            "text": "Getafe",
+            "lemma": "Getafe",
+            "pos": "PROPN"
+        },
+        "Girona": {
+            "text": "Girona",
+            "lemma": "Girona",
+            "pos": "PROPN"
+        },
+        "Mallorca": {
+            "text": "Mallorca",
+            "lemma": "Mallorca",
+            "pos": "PROPN"
+        },
+        "Osasuna": {
+            "text": "Osasuna",
+            "lemma": "Osasuna",
+            "pos": "PROPN"
+        },
+        "Vallecano": {
+            "text": "Vallecano",
+            "lemma": "Vallecano",
+            "pos": "PROPN"
+        },
+        "Real": {
+            "text": "Real",
+            "lemma": "Real",
+            "pos": "PROPN"
+        },
+        "Betis": {
+            "text": "Betis",
+            "lemma": "Betis",
+            "pos": "PROPN"
+        },
+        "Madrid": {
+            "text": "Madrid",
+            "lemma": "Madrid",
+            "pos": "PROPN"
+        },
+        "Sociedad": {
+            "text": "Sociedad",
+            "lemma": "Sociedad",
+            "pos": "PROPN"
+        },
+        "Valladolid": {
+            "text": "Valladolid",
+            "lemma": "Valladolid",
+            "pos": "PROPN"
+        },
+        "Sevilla": {
+            "text": "Sevilla",
+            "lemma": "Sevilla",
+            "pos": "PROPN"
+        },
+        "Valencia": {
+            "text": "Valencia",
+            "lemma": "Valencia",
+            "pos": "PROPN"
+        },
+        "Vllarreal": {
+            "text": "Vllarreal",
+            "lemma": "Vllarreal",
+            "pos": "PROPN"
+        },
+        "nba": {
+            "text": "nba",
+            "lemma": "nba",
+            "pos": "PROPN"
+        },
+        "wimbledon": {
+            "text": "wimbledon",
+            "lemma": "wimbledon",
+            "pos": "PROPN"
+        },
+        "lakers": {
+            "text": "lakers",
+            "lemma": "lakers",
+            "pos": "PROPN"
+        }
+    },
+    "DISENO": {
+        "processed_text": [
+            "interiorismo",
+            "arte",
+            "decoracion",
+            "diseno",
+            "arquitectura",
+            "casa",
+            "design",
+            "art",
+            "minimalismo",
+            "diseno"
+        ],
+        "interiorismo": {
+            "text": "interiorismo",
+            "lemma": "interiorismo",
+            "pos": "NOUN"
+        },
+        "arte": {
+            "text": "arte",
+            "lemma": "arte",
+            "pos": "NOUN"
+        },
+        "decoraci\u00f3n": {
+            "text": "decoraci\u00f3n",
+            "lemma": "decoraci\u00f3n",
+            "pos": "NOUN"
+        },
+        "diseno": {
+            "text": "diseno",
+            "lemma": "diseno",
+            "pos": "PROPN"
+        },
+        "arquitectura": {
+            "text": "arquitectura",
+            "lemma": "arquitectura",
+            "pos": "NOUN"
+        },
+        "casas": {
+            "text": "casas",
+            "lemma": "casa",
+            "pos": "NOUN"
+        },
+        "design": {
+            "text": "design",
+            "lemma": "design",
+            "pos": "PROPN"
+        },
+        "art": {
+            "text": "art",
+            "lemma": "art",
+            "pos": "NOUN"
+        },
+        "minimalismo": {
+            "text": "minimalismo",
+            "lemma": "minimalismo",
+            "pos": "NOUN"
+        },
+        "barroco": {
+            "text": "barroco",
+            "lemma": "barroco",
+            "pos": "ADJ"
+        },
+        "rom\u00e1nico": {
+            "text": "rom\u00e1nico",
+            "lemma": "rom\u00e1nico",
+            "pos": "ADJ"
+        },
+        "dise\u00f1o": {
+            "text": "dise\u00f1o",
+            "lemma": "dise\u00f1o",
+            "pos": "NOUN"
+        }
+    },
+    "ECONOMIA": {
+        "processed_text": [
+            "economia",
+            "finanza",
+            "dinero",
+            "mercado",
+            "euro",
+            "divisa",
+            "bce",
+            "fmi",
+            "fed",
+            "ibex",
+            "nasdaq",
+            "inversion",
+            "stocks",
+            "nikei",
+            "money",
+            "market",
+            "shares",
+            "valor",
+            "punto"
+        ],
+        "economia": {
+            "text": "economia",
+            "lemma": "economia",
+            "pos": "PROPN"
+        },
+        "finanzas": {
+            "text": "finanzas",
+            "lemma": "finanza",
+            "pos": "NOUN"
+        },
+        "dinero": {
+            "text": "dinero",
+            "lemma": "dinero",
+            "pos": "NOUN"
+        },
+        "mercados": {
+            "text": "mercados",
+            "lemma": "mercado",
+            "pos": "NOUN"
+        },
+        "euro": {
+            "text": "euro",
+            "lemma": "euro",
+            "pos": "NOUN"
+        },
+        "dolar": {
+            "text": "dolar",
+            "lemma": "dolar",
+            "pos": "VERB"
+        },
+        "libra": {
+            "text": "libra",
+            "lemma": "librar",
+            "pos": "VERB"
+        },
+        "divisas": {
+            "text": "divisas",
+            "lemma": "divisa",
+            "pos": "NOUN"
+        },
+        "bce": {
+            "text": "bce",
+            "lemma": "bce",
+            "pos": "PROPN"
+        },
+        "fmi": {
+            "text": "fmi",
+            "lemma": "fmi",
+            "pos": "PROPN"
+        },
+        "fed": {
+            "text": "fed",
+            "lemma": "fed",
+            "pos": "PROPN"
+        },
+        "ibex": {
+            "text": "ibex",
+            "lemma": "ibex",
+            "pos": "PROPN"
+        },
+        "nasdaq": {
+            "text": "nasdaq",
+            "lemma": "nasdaq",
+            "pos": "PROPN"
+        },
+        "sp500": {
+            "text": "sp500",
+            "lemma": "sp500",
+            "pos": "ADJ"
+        },
+        "inversion": {
+            "text": "inversion",
+            "lemma": "inversion",
+            "pos": "PROPN"
+        },
+        "stocks": {
+            "text": "stocks",
+            "lemma": "stocks",
+            "pos": "PROPN"
+        },
+        "nikei": {
+            "text": "nikei",
+            "lemma": "nikei",
+            "pos": "PROPN"
+        },
+        "money": {
+            "text": "money",
+            "lemma": "money",
+            "pos": "NOUN"
+        },
+        "market": {
+            "text": "market",
+            "lemma": "market",
+            "pos": "NOUN"
+        },
+        "shares": {
+            "text": "shares",
+            "lemma": "shar",
+            "pos": "NOUN"
+        },
+        "valor": {
+            "text": "valor",
+            "lemma": "valor",
+            "pos": "NOUN"
+        },
+        "puntos": {
+            "text": "puntos",
+            "lemma": "punto",
+            "pos": "NOUN"
+        }
+    },
+    "FAMOSOS": {
+        "processed_text": [
+            "famous",
+            "falco",
+            "carbonero",
+            "pantoja",
+            "esteban",
+            "borbones",
+            "borbon",
+            "shakira",
+            "bertin",
+            "onieva",
+            "hilton",
+            "urdangarin",
+            "ordonez",
+            "matamoros",
+            "igartiburu",
+            "supervivientes",
+            "salvame",
+            "bose",
+            "kardashian",
+            "spears",
+            "bieber",
+            "gaga",
+            "rihanna",
+            "drake",
+            "freeman",
+            "pacino",
+            "bunny",
+            "anuel",
+            "balvin",
+            "rauw",
+            "maluma",
+            "niro",
+            "arguinano",
+            "bezos",
+            "musk",
+            "gates",
+            "buffet",
+            "zuckerberg",
+            "pichai",
+            "rogan",
+            "dorsey",
+            "rahm",
+            "pausini",
+            "mcgregor",
+            "mayweather",
+            "tyson",
+            "presley",
+            "boyer",
+            "goirigolzarri",
+            "echevarria",
+            "bustamante",
+            "bisbal",
+            "rosalia",
+            "aitana",
+            "patino",
+            "deluxe",
+            "pombo",
+            "escanes",
+            "mejide",
+            "markle",
+            "hadid",
+            "minaj",
+            "jam",
+            "ratajkowski",
+            "padilla",
+            "yatra",
+            "jenner",
+            "brosnan",
+            "beyonce",
+            "perry",
+            "gallagher",
+            "lipa",
+            "degeneres",
+            "schwarzenegger",
+            "stallone",
+            "gibson",
+            "hamm",
+            "kanye",
+            "sarda",
+            "torroja",
+            "vaquerizo",
+            "chenoa",
+            "peluso",
+            "onega",
+            "galvez",
+            "cooper",
+            "shayk",
+            "levine",
+            "barrymore",
+            "camilla",
+            "hardy",
+            "brady",
+            "letizia",
+            "agag",
+            "eastwood",
+            "pataky",
+            "norris"
+        ],
+        "famosos": {
+            "text": "famosos",
+            "lemma": "famoso",
+            "pos": "ADJ"
+        },
+        "famous": {
+            "text": "famous",
+            "lemma": "famous",
+            "pos": "PROPN"
+        },
+        "Falc\u00f3": {
+            "text": "Falc\u00f3",
+            "lemma": "Falc\u00f3",
+            "pos": "PROPN"
+        },
+        "Carbonero": {
+            "text": "Carbonero",
+            "lemma": "Carbonero",
+            "pos": "PROPN"
+        },
+        "Pantoja": {
+            "text": "Pantoja",
+            "lemma": "Pantoja",
+            "pos": "PROPN"
+        },
+        "Esteban": {
+            "text": "Esteban",
+            "lemma": "Esteban",
+            "pos": "PROPN"
+        },
+        "Borbones": {
+            "text": "Borbones",
+            "lemma": "Borbones",
+            "pos": "PROPN"
+        },
+        "Borb\u00f3n": {
+            "text": "Borb\u00f3n",
+            "lemma": "Borb\u00f3n",
+            "pos": "PROPN"
+        },
+        "Shakira": {
+            "text": "Shakira",
+            "lemma": "Shakira",
+            "pos": "PROPN"
+        },
+        "Bertin": {
+            "text": "Bertin",
+            "lemma": "Bertin",
+            "pos": "PROPN"
+        },
+        "Onieva": {
+            "text": "Onieva",
+            "lemma": "Onieva",
+            "pos": "PROPN"
+        },
+        "Hilton": {
+            "text": "Hilton",
+            "lemma": "Hilton",
+            "pos": "PROPN"
+        },
+        "Urdangarin": {
+            "text": "Urdangarin",
+            "lemma": "Urdangarin",
+            "pos": "PROPN"
+        },
+        "Ordo\u00f1ez": {
+            "text": "Ordo\u00f1ez",
+            "lemma": "Ordo\u00f1ez",
+            "pos": "PROPN"
+        },
+        "Matamoros": {
+            "text": "Matamoros",
+            "lemma": "Matamoros",
+            "pos": "PROPN"
+        },
+        "Igartiburu": {
+            "text": "Igartiburu",
+            "lemma": "Igartiburu",
+            "pos": "PROPN"
+        },
+        "Supervivientes": {
+            "text": "Supervivientes",
+            "lemma": "Supervivientes",
+            "pos": "PROPN"
+        },
+        "Salvame": {
+            "text": "Salvame",
+            "lemma": "Salvame",
+            "pos": "PROPN"
+        },
+        "Bos\u00e9": {
+            "text": "Bos\u00e9",
+            "lemma": "Bos\u00e9",
+            "pos": "PROPN"
+        },
+        "Kardashian": {
+            "text": "Kardashian",
+            "lemma": "Kardashian",
+            "pos": "PROPN"
+        },
+        "Spears": {
+            "text": "Spears",
+            "lemma": "Spears",
+            "pos": "PROPN"
+        },
+        "Bieber": {
+            "text": "Bieber",
+            "lemma": "Bieber",
+            "pos": "PROPN"
+        },
+        "Gaga": {
+            "text": "Gaga",
+            "lemma": "Gaga",
+            "pos": "PROPN"
+        },
+        "Rihanna": {
+            "text": "Rihanna",
+            "lemma": "Rihanna",
+            "pos": "PROPN"
+        },
+        "Drake": {
+            "text": "Drake",
+            "lemma": "Drake",
+            "pos": "PROPN"
+        },
+        "Freeman": {
+            "text": "Freeman",
+            "lemma": "Freeman",
+            "pos": "PROPN"
+        },
+        "Pacino": {
+            "text": "Pacino",
+            "lemma": "Pacino",
+            "pos": "PROPN"
+        },
+        "Bunny": {
+            "text": "Bunny",
+            "lemma": "bunny",
+            "pos": "NOUN"
+        },
+        "Anuel": {
+            "text": "Anuel",
+            "lemma": "Anuel",
+            "pos": "PROPN"
+        },
+        "Balvin": {
+            "text": "Balvin",
+            "lemma": "Balvin",
+            "pos": "PROPN"
+        },
+        "Rauw": {
+            "text": "Rauw",
+            "lemma": "Rauw",
+            "pos": "PROPN"
+        },
+        "Maluma": {
+            "text": "Maluma",
+            "lemma": "Maluma",
+            "pos": "PROPN"
+        },
+        "Niro": {
+            "text": "Niro",
+            "lemma": "Niro",
+            "pos": "PROPN"
+        },
+        "Argui\u00f1ano": {
+            "text": "Argui\u00f1ano",
+            "lemma": "Argui\u00f1ano",
+            "pos": "PROPN"
+        },
+        "Bezos": {
+            "text": "Bezos",
+            "lemma": "Bezos",
+            "pos": "PROPN"
+        },
+        "Musk": {
+            "text": "Musk",
+            "lemma": "Musk",
+            "pos": "PROPN"
+        },
+        "Gates": {
+            "text": "Gates",
+            "lemma": "Gates",
+            "pos": "PROPN"
+        },
+        "Buffet": {
+            "text": "Buffet",
+            "lemma": "Buffet",
+            "pos": "PROPN"
+        },
+        "Zuckerberg": {
+            "text": "Zuckerberg",
+            "lemma": "Zuckerberg",
+            "pos": "PROPN"
+        },
+        "Pichai": {
+            "text": "Pichai",
+            "lemma": "Pichai",
+            "pos": "PROPN"
+        },
+        "Rogan": {
+            "text": "Rogan",
+            "lemma": "Rogan",
+            "pos": "PROPN"
+        },
+        "Dorsey": {
+            "text": "Dorsey",
+            "lemma": "Dorsey",
+            "pos": "PROPN"
+        },
+        "Rahm": {
+            "text": "Rahm",
+            "lemma": "Rahm",
+            "pos": "PROPN"
+        },
+        "Pausini": {
+            "text": "Pausini",
+            "lemma": "Pausini",
+            "pos": "PROPN"
+        },
+        "Mcgregor": {
+            "text": "Mcgregor",
+            "lemma": "Mcgregor",
+            "pos": "PROPN"
+        },
+        "Mayweather": {
+            "text": "Mayweather",
+            "lemma": "Mayweather",
+            "pos": "PROPN"
+        },
+        "Tyson": {
+            "text": "Tyson",
+            "lemma": "Tyson",
+            "pos": "PROPN"
+        },
+        "Presley": {
+            "text": "Presley",
+            "lemma": "Presley",
+            "pos": "PROPN"
+        },
+        "Boyer": {
+            "text": "Boyer",
+            "lemma": "Boyer",
+            "pos": "PROPN"
+        },
+        "Goirigolzarri": {
+            "text": "Goirigolzarri",
+            "lemma": "Goirigolzarri",
+            "pos": "PROPN"
+        },
+        "Echevarria": {
+            "text": "Echevarria",
+            "lemma": "Echevarria",
+            "pos": "PROPN"
+        },
+        "Bustamante": {
+            "text": "Bustamante",
+            "lemma": "Bustamante",
+            "pos": "PROPN"
+        },
+        "Bisbal": {
+            "text": "Bisbal",
+            "lemma": "Bisbal",
+            "pos": "PROPN"
+        },
+        "Rosalia": {
+            "text": "Rosalia",
+            "lemma": "Rosalia",
+            "pos": "PROPN"
+        },
+        "Aitana": {
+            "text": "Aitana",
+            "lemma": "Aitana",
+            "pos": "PROPN"
+        },
+        "Pati\u00f1o": {
+            "text": "Pati\u00f1o",
+            "lemma": "Pati\u00f1o",
+            "pos": "PROPN"
+        },
+        "Deluxe": {
+            "text": "Deluxe",
+            "lemma": "Deluxe",
+            "pos": "PROPN"
+        },
+        "Pombo": {
+            "text": "Pombo",
+            "lemma": "Pombo",
+            "pos": "PROPN"
+        },
+        "Escanes": {
+            "text": "Escanes",
+            "lemma": "Escanes",
+            "pos": "PROPN"
+        },
+        "Mejide": {
+            "text": "Mejide",
+            "lemma": "Mejide",
+            "pos": "PROPN"
+        },
+        "Markle": {
+            "text": "Markle",
+            "lemma": "Markle",
+            "pos": "PROPN"
+        },
+        "Hadid": {
+            "text": "Hadid",
+            "lemma": "Hadid",
+            "pos": "PROPN"
+        },
+        "Minaj": {
+            "text": "Minaj",
+            "lemma": "minaj",
+            "pos": "ADV"
+        },
+        "Jam": {
+            "text": "Jam",
+            "lemma": "Jam",
+            "pos": "PROPN"
+        },
+        "Ratajkowski": {
+            "text": "Ratajkowski",
+            "lemma": "Ratajkowski",
+            "pos": "PROPN"
+        },
+        "Padilla": {
+            "text": "Padilla",
+            "lemma": "Padilla",
+            "pos": "PROPN"
+        },
+        "Yatra": {
+            "text": "Yatra",
+            "lemma": "Yatra",
+            "pos": "PROPN"
+        },
+        "Jenner": {
+            "text": "Jenner",
+            "lemma": "Jenner",
+            "pos": "PROPN"
+        },
+        "Brosnan": {
+            "text": "Brosnan",
+            "lemma": "Brosnan",
+            "pos": "PROPN"
+        },
+        "Beyonce": {
+            "text": "Beyonce",
+            "lemma": "Beyonce",
+            "pos": "PROPN"
+        },
+        "Perry": {
+            "text": "Perry",
+            "lemma": "Perry",
+            "pos": "PROPN"
+        },
+        "Gallagher": {
+            "text": "Gallagher",
+            "lemma": "Gallagher",
+            "pos": "PROPN"
+        },
+        "Lipa": {
+            "text": "Lipa",
+            "lemma": "Lipa",
+            "pos": "PROPN"
+        },
+        "DeGeneres": {
+            "text": "DeGeneres",
+            "lemma": "DeGeneres",
+            "pos": "PROPN"
+        },
+        "Schwarzenegger": {
+            "text": "Schwarzenegger",
+            "lemma": "Schwarzenegger",
+            "pos": "PROPN"
+        },
+        "Stallone": {
+            "text": "Stallone",
+            "lemma": "Stallone",
+            "pos": "PROPN"
+        },
+        "Gibson": {
+            "text": "Gibson",
+            "lemma": "Gibson",
+            "pos": "PROPN"
+        },
+        "Hamm": {
+            "text": "Hamm",
+            "lemma": "Hamm",
+            "pos": "PROPN"
+        },
+        "Kanye": {
+            "text": "Kanye",
+            "lemma": "Kanye",
+            "pos": "PROPN"
+        },
+        "Sarda": {
+            "text": "Sarda",
+            "lemma": "Sarda",
+            "pos": "PROPN"
+        },
+        "Torroja": {
+            "text": "Torroja",
+            "lemma": "Torroja",
+            "pos": "PROPN"
+        },
+        "Vaquerizo": {
+            "text": "Vaquerizo",
+            "lemma": "vaquerizo",
+            "pos": "ADJ"
+        },
+        "Chenoa": {
+            "text": "Chenoa",
+            "lemma": "Chenoa",
+            "pos": "PROPN"
+        },
+        "Peluso": {
+            "text": "Peluso",
+            "lemma": "Peluso",
+            "pos": "PROPN"
+        },
+        "Onega": {
+            "text": "Onega",
+            "lemma": "Onega",
+            "pos": "PROPN"
+        },
+        "Galvez": {
+            "text": "Galvez",
+            "lemma": "Galvez",
+            "pos": "PROPN"
+        },
+        "Cooper": {
+            "text": "Cooper",
+            "lemma": "Cooper",
+            "pos": "PROPN"
+        },
+        "Shayk": {
+            "text": "Shayk",
+            "lemma": "Shayk",
+            "pos": "PROPN"
+        },
+        "Levine": {
+            "text": "Levine",
+            "lemma": "Levine",
+            "pos": "PROPN"
+        },
+        "Barrymore": {
+            "text": "Barrymore",
+            "lemma": "Barrymore",
+            "pos": "PROPN"
+        },
+        "Camilla": {
+            "text": "Camilla",
+            "lemma": "Camilla",
+            "pos": "PROPN"
+        },
+        "Hardy": {
+            "text": "Hardy",
+            "lemma": "Hardy",
+            "pos": "PROPN"
+        },
+        "Brady": {
+            "text": "Brady",
+            "lemma": "Brady",
+            "pos": "PROPN"
+        },
+        "Letizia": {
+            "text": "Letizia",
+            "lemma": "Letizia",
+            "pos": "PROPN"
+        },
+        "Agag": {
+            "text": "Agag",
+            "lemma": "Agag",
+            "pos": "PROPN"
+        },
+        "Eastwood": {
+            "text": "Eastwood",
+            "lemma": "Eastwood",
+            "pos": "PROPN"
+        },
+        "Pataky": {
+            "text": "Pataky",
+            "lemma": "Pataky",
+            "pos": "PROPN"
+        },
+        "Norris": {
+            "text": "Norris",
+            "lemma": "Norris",
+            "pos": "PROPN"
+        }
+    },
+    "GASTRONOMIA": {
+        "processed_text": [
+            "gastronomia",
+            "food",
+            "nutricion",
+            "keto",
+            "plantbased",
+            "coctel",
+            "vegetarianismo",
+            "dieta",
+            "alimentacion",
+            "comida",
+            "cena",
+            "desayuno"
+        ],
+        "gastronomia": {
+            "text": "gastronomia",
+            "lemma": "gastronomia",
+            "pos": "PROPN"
+        },
+        "food": {
+            "text": "food",
+            "lemma": "food",
+            "pos": "VERB"
+        },
+        "foodie": {
+            "text": "foodie",
+            "lemma": "foodie",
+            "pos": "ADJ"
+        },
+        "vegano": {
+            "text": "vegano",
+            "lemma": "vegano",
+            "pos": "ADJ"
+        },
+        "flexiteriano": {
+            "text": "flexiteriano",
+            "lemma": "flexiteriano",
+            "pos": "ADJ"
+        },
+        "nutricion": {
+            "text": "nutricion",
+            "lemma": "nutricion",
+            "pos": "PROPN"
+        },
+        "keto": {
+            "text": "keto",
+            "lemma": "keto",
+            "pos": "PROPN"
+        },
+        "plantbased": {
+            "text": "plantbased",
+            "lemma": "plantbased",
+            "pos": "ADJ"
+        },
+        "cocteles": {
+            "text": "cocteles",
+            "lemma": "coctel",
+            "pos": "NOUN"
+        },
+        "vegetarianismo": {
+            "text": "vegetarianismo",
+            "lemma": "vegetarianismo",
+            "pos": "NOUN"
+        },
+        "dieta": {
+            "text": "dieta",
+            "lemma": "dieta",
+            "pos": "NOUN"
+        },
+        "alimentacion": {
+            "text": "alimentacion",
+            "lemma": "alimentacion",
+            "pos": "PROPN"
+        },
+        "comida": {
+            "text": "comida",
+            "lemma": "comida",
+            "pos": "NOUN"
+        },
+        "cena": {
+            "text": "cena",
+            "lemma": "cena",
+            "pos": "NOUN"
+        },
+        "desayuno": {
+            "text": "desayuno",
+            "lemma": "desayuno",
+            "pos": "NOUN"
+        },
+        "especias": {
+            "text": "especias",
+            "lemma": "especia",
+            "pos": "NOUN"
+        }
+    },
+    "GENERALISTAS": {
+        "processed_text": [
+            "actualidad",
+            "suceso",
+            "noticia",
+            "news"
+        ],
+        "actualidad": {
+            "text": "actualidad",
+            "lemma": "actualidad",
+            "pos": "NOUN"
+        },
+        "sucesos": {
+            "text": "sucesos",
+            "lemma": "suceso",
+            "pos": "NOUN"
+        },
+        "noticias": {
+            "text": "noticias",
+            "lemma": "noticia",
+            "pos": "NOUN"
+        },
+        "generalistas": {
+            "text": "generalistas",
+            "lemma": "generalista",
+            "pos": "ADJ"
+        },
+        "resumen": {
+            "text": "resumen",
+            "lemma": "resumen",
+            "pos": "NOUN"
+        },
+        "dia": {
+            "text": "dia",
+            "lemma": "dia",
+            "pos": "NOUN"
+        },
+        "news": {
+            "text": "news",
+            "lemma": "news",
+            "pos": "PROPN"
+        }
+    },
+    "INTERNACIONAL": {
+        "processed_text": [
+            "trump",
+            "biden",
+            "putin",
+            "merkel",
+            "macron",
+            "pen",
+            "berlusconi",
+            "sassoli",
+            "leyen",
+            "michel",
+            "borrell",
+            "clinton",
+            "kiev",
+            "moscu",
+            "china",
+            "pekin",
+            "tokyo",
+            "japon",
+            "europea",
+            "europa",
+            "ucrania",
+            "zelenski",
+            "irak",
+            "america",
+            "onu",
+            "eeuu",
+            "afganistan",
+            "venezuela",
+            "kirchner",
+            "renzi",
+            "johnson",
+            "erdogan",
+            "maduro",
+            "chavez",
+            "scholz",
+            "zaporiyia",
+            "muqtada",
+            "morawiecki",
+            "cisjordania",
+            "bolsonaro",
+            "inglaterra",
+            "uk",
+            "delhi",
+            "vaticano",
+            "rotterdam",
+            "orban",
+            "tripoli",
+            "hungria",
+            "kosovo",
+            "tebboune",
+            "mariupol",
+            "donetsk",
+            "riga",
+            "lenin",
+            "uribe",
+            "obrador",
+            "amlo",
+            "mpla",
+            "obama",
+            "bush",
+            "seul",
+            "jinping",
+            "pelosi",
+            "francia",
+            "alemania",
+            "italia",
+            "china",
+            "rusia",
+            "america",
+            "europa",
+            "asia",
+            "africa",
+            "oceania",
+            "usa"
+        ],
+        "Trump": {
+            "text": "Trump",
+            "lemma": "Trump",
+            "pos": "PROPN"
+        },
+        "Biden": {
+            "text": "Biden",
+            "lemma": "Biden",
+            "pos": "PROPN"
+        },
+        "Putin": {
+            "text": "Putin",
+            "lemma": "Putin",
+            "pos": "PROPN"
+        },
+        "Merkel": {
+            "text": "Merkel",
+            "lemma": "Merkel",
+            "pos": "PROPN"
+        },
+        "Macron": {
+            "text": "Macron",
+            "lemma": "Macron",
+            "pos": "PROPN"
+        },
+        "Pen": {
+            "text": "Pen",
+            "lemma": "Pen",
+            "pos": "PROPN"
+        },
+        "Berlusconi": {
+            "text": "Berlusconi",
+            "lemma": "Berlusconi",
+            "pos": "PROPN"
+        },
+        "Sassoli": {
+            "text": "Sassoli",
+            "lemma": "Sassoli",
+            "pos": "PROPN"
+        },
+        "Leyen": {
+            "text": "Leyen",
+            "lemma": "Leyen",
+            "pos": "PROPN"
+        },
+        "Michel": {
+            "text": "Michel",
+            "lemma": "Michel",
+            "pos": "PROPN"
+        },
+        "Borrell": {
+            "text": "Borrell",
+            "lemma": "Borrell",
+            "pos": "PROPN"
+        },
+        "Clinton": {
+            "text": "Clinton",
+            "lemma": "Clinton",
+            "pos": "PROPN"
+        },
+        "Kiev": {
+            "text": "Kiev",
+            "lemma": "Kiev",
+            "pos": "PROPN"
+        },
+        "Mosc\u00fa": {
+            "text": "Mosc\u00fa",
+            "lemma": "Mosc\u00fa",
+            "pos": "PROPN"
+        },
+        "China": {
+            "text": "China",
+            "lemma": "China",
+            "pos": "PROPN"
+        },
+        "Pek\u00edn": {
+            "text": "Pek\u00edn",
+            "lemma": "Pek\u00edn",
+            "pos": "PROPN"
+        },
+        "Tokyo": {
+            "text": "Tokyo",
+            "lemma": "Tokyo",
+            "pos": "PROPN"
+        },
+        "Jap\u00f3n": {
+            "text": "Jap\u00f3n",
+            "lemma": "Jap\u00f3n",
+            "pos": "PROPN"
+        },
+        "Europea": {
+            "text": "Europea",
+            "lemma": "Europea",
+            "pos": "PROPN"
+        },
+        "Europa": {
+            "text": "Europa",
+            "lemma": "Europa",
+            "pos": "PROPN"
+        },
+        "Ucrania": {
+            "text": "Ucrania",
+            "lemma": "Ucrania",
+            "pos": "PROPN"
+        },
+        "Zelenski": {
+            "text": "Zelenski",
+            "lemma": "Zelenski",
+            "pos": "PROPN"
+        },
+        "Irak": {
+            "text": "Irak",
+            "lemma": "Irak",
+            "pos": "PROPN"
+        },
+        "Am\u00e9rica": {
+            "text": "Am\u00e9rica",
+            "lemma": "Am\u00e9rica",
+            "pos": "PROPN"
+        },
+        "ONU": {
+            "text": "ONU",
+            "lemma": "ONU",
+            "pos": "PROPN"
+        },
+        "EEUU": {
+            "text": "EEUU",
+            "lemma": "EEUU",
+            "pos": "PROPN"
+        },
+        "Taliban": {
+            "text": "Taliban",
+            "lemma": "talir",
+            "pos": "VERB"
+        },
+        "Afganist\u00e1n": {
+            "text": "Afganist\u00e1n",
+            "lemma": "Afganist\u00e1n",
+            "pos": "PROPN"
+        },
+        "Venezuela": {
+            "text": "Venezuela",
+            "lemma": "Venezuela",
+            "pos": "PROPN"
+        },
+        "Kirchner": {
+            "text": "Kirchner",
+            "lemma": "Kirchner",
+            "pos": "PROPN"
+        },
+        "Renzi": {
+            "text": "Renzi",
+            "lemma": "Renzi",
+            "pos": "PROPN"
+        },
+        "Johnson": {
+            "text": "Johnson",
+            "lemma": "Johnson",
+            "pos": "PROPN"
+        },
+        "Erdogan": {
+            "text": "Erdogan",
+            "lemma": "Erdogan",
+            "pos": "PROPN"
+        },
+        "Maduro": {
+            "text": "Maduro",
+            "lemma": "Maduro",
+            "pos": "PROPN"
+        },
+        "Chavez": {
+            "text": "Chavez",
+            "lemma": "Chavez",
+            "pos": "PROPN"
+        },
+        "Scholz": {
+            "text": "Scholz",
+            "lemma": "Scholz",
+            "pos": "PROPN"
+        },
+        "Zaporiyia": {
+            "text": "Zaporiyia",
+            "lemma": "Zaporiyia",
+            "pos": "PROPN"
+        },
+        "Muqtada": {
+            "text": "Muqtada",
+            "lemma": "muqtado",
+            "pos": "ADJ"
+        },
+        "Morawiecki": {
+            "text": "Morawiecki",
+            "lemma": "Morawiecki",
+            "pos": "PROPN"
+        },
+        "Cisjordania": {
+            "text": "Cisjordania",
+            "lemma": "Cisjordania",
+            "pos": "PROPN"
+        },
+        "Bolsonaro": {
+            "text": "Bolsonaro",
+            "lemma": "Bolsonaro",
+            "pos": "PROPN"
+        },
+        "Inglaterra": {
+            "text": "Inglaterra",
+            "lemma": "Inglaterra",
+            "pos": "PROPN"
+        },
+        " UK": {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE"
+        },
+        "Delhi": {
+            "text": "Delhi",
+            "lemma": "Delhi",
+            "pos": "PROPN"
+        },
+        "Vaticano": {
+            "text": "Vaticano",
+            "lemma": "Vaticano",
+            "pos": "PROPN"
+        },
+        "Rotterdam": {
+            "text": "Rotterdam",
+            "lemma": "Rotterdam",
+            "pos": "PROPN"
+        },
+        "Orban": {
+            "text": "Orban",
+            "lemma": "orr",
+            "pos": "VERB"
+        },
+        "Tripoli": {
+            "text": "Tripoli",
+            "lemma": "Tripoli",
+            "pos": "PROPN"
+        },
+        "Hungr\u00eda": {
+            "text": "Hungr\u00eda",
+            "lemma": "Hungr\u00eda",
+            "pos": "PROPN"
+        },
+        "Kosovo": {
+            "text": "Kosovo",
+            "lemma": "Kosovo",
+            "pos": "PROPN"
+        },
+        "Tebboune": {
+            "text": "Tebboune",
+            "lemma": "Tebboune",
+            "pos": "PROPN"
+        },
+        "Mariupol": {
+            "text": "Mariupol",
+            "lemma": "Mariupol",
+            "pos": "PROPN"
+        },
+        "Donetsk": {
+            "text": "Donetsk",
+            "lemma": "Donetsk",
+            "pos": "PROPN"
+        },
+        "Riga": {
+            "text": "Riga",
+            "lemma": "Riga",
+            "pos": "PROPN"
+        },
+        "Lenin": {
+            "text": "Lenin",
+            "lemma": "Lenin",
+            "pos": "PROPN"
+        },
+        "Uribe": {
+            "text": "Uribe",
+            "lemma": "Uribe",
+            "pos": "PROPN"
+        },
+        "Obrador": {
+            "text": "Obrador",
+            "lemma": "Obrador",
+            "pos": "PROPN"
+        },
+        "AMLO": {
+            "text": "AMLO",
+            "lemma": "AMLO",
+            "pos": "PROPN"
+        },
+        "MPLA": {
+            "text": "MPLA",
+            "lemma": "MPLA",
+            "pos": "PROPN"
+        },
+        "Obama": {
+            "text": "Obama",
+            "lemma": "Obama",
+            "pos": "PROPN"
+        },
+        "Bush": {
+            "text": "Bush",
+            "lemma": "Bush",
+            "pos": "PROPN"
+        },
+        "Se\u00fal": {
+            "text": "Se\u00fal",
+            "lemma": "Se\u00fal",
+            "pos": "PROPN"
+        },
+        "Jong-un": {
+            "text": "Jong-un",
+            "lemma": "jong-un",
+            "pos": "SPACE"
+        },
+        "Jinping": {
+            "text": "Jinping",
+            "lemma": "Jinping",
+            "pos": "PROPN"
+        },
+        "Pelosi": {
+            "text": "Pelosi",
+            "lemma": "Pelosi",
+            "pos": "PROPN"
+        },
+        "internacional": {
+            "text": "internacional",
+            "lemma": "internacional",
+            "pos": "ADJ"
+        },
+        "Francia": {
+            "text": "Francia",
+            "lemma": "Francia",
+            "pos": "PROPN"
+        },
+        "Alemania": {
+            "text": "Alemania",
+            "lemma": "Alemania",
+            "pos": "PROPN"
+        },
+        "Italia": {
+            "text": "Italia",
+            "lemma": "Italia",
+            "pos": "PROPN"
+        },
+        "Rusia": {
+            "text": "Rusia",
+            "lemma": "Rusia",
+            "pos": "PROPN"
+        },
+        "Asia": {
+            "text": "Asia",
+            "lemma": "Asia",
+            "pos": "PROPN"
+        },
+        "\u00c1frica": {
+            "text": "\u00c1frica",
+            "lemma": "\u00c1frica",
+            "pos": "PROPN"
+        },
+        "Ocean\u00eda": {
+            "text": "Ocean\u00eda",
+            "lemma": "Ocean\u00eda",
+            "pos": "PROPN"
+        },
+        "dem\u00f3cratas": {
+            "text": "dem\u00f3cratas",
+            "lemma": "dem\u00f3crata",
+            "pos": "NOUN"
+        },
+        "republicanos": {
+            "text": "republicanos",
+            "lemma": "republicano",
+            "pos": "ADJ"
+        },
+        "USA": {
+            "text": "USA",
+            "lemma": "USA",
+            "pos": "PROPN"
+        }
+    },
+    "LIFESTYLE": {
+        "processed_text": [
+            "lifestyle",
+            "lujo",
+            "viajes",
+            "wellness",
+            "barcos",
+            "yates",
+            "luxury",
+            "estilo",
+            "naturaleza",
+            "joya"
+        ],
+        "lifestyle": {
+            "text": "lifestyle",
+            "lemma": "lifestyle",
+            "pos": "PROPN"
+        },
+        "lujo": {
+            "text": "lujo",
+            "lemma": "lujo",
+            "pos": "NOUN"
+        },
+        "viajes": {
+            "text": "viajes",
+            "lemma": "viaje",
+            "pos": "NOUN"
+        },
+        "cosm\u00e9tica": {
+            "text": "cosm\u00e9tica",
+            "lemma": "cosm\u00e9tico",
+            "pos": "ADJ"
+        },
+        "wellness": {
+            "text": "wellness",
+            "lemma": "wellness",
+            "pos": "PROPN"
+        },
+        "barcos": {
+            "text": "barcos",
+            "lemma": "barco",
+            "pos": "NOUN"
+        },
+        "yates": {
+            "text": "yates",
+            "lemma": "yate",
+            "pos": "NOUN"
+        },
+        "luxury": {
+            "text": "luxury",
+            "lemma": "luxury",
+            "pos": "PROPN"
+        },
+        "estilo": {
+            "text": "estilo",
+            "lemma": "estilo",
+            "pos": "NOUN"
+        },
+        "naturaleza": {
+            "text": "naturaleza",
+            "lemma": "naturaleza",
+            "pos": "NOUN"
+        },
+        "joyas": {
+            "text": "joyas",
+            "lemma": "joya",
+            "pos": "NOUN"
+        },
+        "escapadas": {
+            "text": "escapadas",
+            "lemma": "escapada",
+            "pos": "NOUN"
+        }
+    },
+    "MODA": {
+        "processed_text": [
+            "complemento",
+            "bolso",
+            "zapato",
+            "estilismo",
+            "maquillaje",
+            "fashion",
+            "dress",
+            "disenadores",
+            "joya",
+            "look"
+        ],
+        "complementos": {
+            "text": "complementos",
+            "lemma": "complemento",
+            "pos": "NOUN"
+        },
+        "bolsos": {
+            "text": "bolsos",
+            "lemma": "bolso",
+            "pos": "NOUN"
+        },
+        "zapatos": {
+            "text": "zapatos",
+            "lemma": "zapato",
+            "pos": "NOUN"
+        },
+        "moda": {
+            "text": "moda",
+            "lemma": "moda",
+            "pos": "NOUN"
+        },
+        "estilismo": {
+            "text": "estilismo",
+            "lemma": "estilismo",
+            "pos": "NOUN"
+        },
+        "maquillaje": {
+            "text": "maquillaje",
+            "lemma": "maquillaje",
+            "pos": "NOUN"
+        },
+        "fashion": {
+            "text": "fashion",
+            "lemma": "fashion",
+            "pos": "PROPN"
+        },
+        "dress": {
+            "text": "dress",
+            "lemma": "dress",
+            "pos": "NOUN"
+        },
+        "dise\u00f1adores": {
+            "text": "dise\u00f1adores",
+            "lemma": "dise\u00f1ador",
+            "pos": "NOUN"
+        },
+        "pasarela": {
+            "text": "pasarela",
+            "lemma": "pasarelar",
+            "pos": "VERB"
+        },
+        "joyas": {
+            "text": "joyas",
+            "lemma": "joya",
+            "pos": "NOUN"
+        },
+        "looks": {
+            "text": "looks",
+            "lemma": "look",
+            "pos": "NOUN"
+        }
+    },
+    "MOTOR": {
+        "processed_text": [
+            "moto",
+            "coche",
+            "motogp",
+            "mercedes",
+            "ferrari",
+            "porsche",
+            "mclaren",
+            "maserati",
+            "cilindrada",
+            "cilindros",
+            "dakar",
+            "rally",
+            "automovil",
+            "carroceria",
+            "caballo",
+            "chasis",
+            "freno",
+            "llanta"
+        ],
+        "moto": {
+            "text": "moto",
+            "lemma": "moto",
+            "pos": "PROPN"
+        },
+        "coche": {
+            "text": "coche",
+            "lemma": "coche",
+            "pos": "NOUN"
+        },
+        "motogp": {
+            "text": "motogp",
+            "lemma": "motogp",
+            "pos": "PROPN"
+        },
+        "formula": {
+            "text": "formula",
+            "lemma": "formular",
+            "pos": "VERB"
+        },
+        "formula1": {
+            "text": "formula1",
+            "lemma": "formula1",
+            "pos": "PROPN"
+        },
+        "Mercedes": {
+            "text": "Mercedes",
+            "lemma": "Mercedes",
+            "pos": "PROPN"
+        },
+        "Ferrari": {
+            "text": "Ferrari",
+            "lemma": "Ferrari",
+            "pos": "PROPN"
+        },
+        "Porsche": {
+            "text": "Porsche",
+            "lemma": "Porsche",
+            "pos": "PROPN"
+        },
+        "Mclaren": {
+            "text": "Mclaren",
+            "lemma": "Mclaren",
+            "pos": "PROPN"
+        },
+        "Maserati": {
+            "text": "Maserati",
+            "lemma": "Maserati",
+            "pos": "PROPN"
+        },
+        "cilindrada": {
+            "text": "cilindrada",
+            "lemma": "cilindrada",
+            "pos": "NOUN"
+        },
+        "cilindros": {
+            "text": "cilindros",
+            "lemma": "cilindro",
+            "pos": "NOUN"
+        },
+        "mecanica": {
+            "text": "mecanica",
+            "lemma": "mecanico",
+            "pos": "ADJ"
+        },
+        "Dakar": {
+            "text": "Dakar",
+            "lemma": "Dakar",
+            "pos": "PROPN"
+        },
+        "rallies": {
+            "text": "rallies",
+            "lemma": "ralli",
+            "pos": "NOUN"
+        },
+        "rally": {
+            "text": "rally",
+            "lemma": "rally",
+            "pos": "NOUN"
+        },
+        "automovil": {
+            "text": "automovil",
+            "lemma": "automovil",
+            "pos": "PROPN"
+        },
+        "carrocer\u00eda": {
+            "text": "carrocer\u00eda",
+            "lemma": "carrocer\u00eda",
+            "pos": "NOUN"
+        },
+        "caballos": {
+            "text": "caballos",
+            "lemma": "caballo",
+            "pos": "NOUN"
+        },
+        "chasis": {
+            "text": "chasis",
+            "lemma": "chasis",
+            "pos": "NOUN"
+        },
+        "volante": {
+            "text": "volante",
+            "lemma": "volante",
+            "pos": "NOUN"
+        },
+        "frenos": {
+            "text": "frenos",
+            "lemma": "freno",
+            "pos": "NOUN"
+        },
+        "llantas": {
+            "text": "llantas",
+            "lemma": "llanta",
+            "pos": "NOUN"
+        }
+    },
+    "POLITICA": {
+        "processed_text": [
+            "gobierno",
+            "congreso",
+            "politics",
+            "tribunal",
+            "supremo",
+            "constitucional",
+            "fiscalia",
+            "pp",
+            "psoe",
+            "podemos",
+            "vox",
+            "ciudadanos",
+            "erc",
+            "pacma",
+            "diputado",
+            "alcalde",
+            "senador",
+            "presidente",
+            "edil",
+            "audiencia"
+        ],
+        "politica": {
+            "text": "politica",
+            "lemma": "politico",
+            "pos": "ADJ"
+        },
+        "gobierno": {
+            "text": "gobierno",
+            "lemma": "gobierno",
+            "pos": "PROPN"
+        },
+        "congreso": {
+            "text": "congreso",
+            "lemma": "congreso",
+            "pos": "PROPN"
+        },
+        "politics": {
+            "text": "politics",
+            "lemma": "politics",
+            "pos": "PROPN"
+        },
+        "senado": {
+            "text": "senado",
+            "lemma": "senado",
+            "pos": "ADJ"
+        },
+        "tribunal": {
+            "text": "tribunal",
+            "lemma": "tribunal",
+            "pos": "NOUN"
+        },
+        "supremo": {
+            "text": "supremo",
+            "lemma": "supremo",
+            "pos": "ADJ"
+        },
+        "constitucional": {
+            "text": "constitucional",
+            "lemma": "constitucional",
+            "pos": "ADJ"
+        },
+        "fiscalia": {
+            "text": "fiscalia",
+            "lemma": "fiscalia",
+            "pos": "NOUN"
+        },
+        "PP": {
+            "text": "PP",
+            "lemma": "PP",
+            "pos": "PROPN"
+        },
+        "PSOE": {
+            "text": "PSOE",
+            "lemma": "PSOE",
+            "pos": "PROPN"
+        },
+        "Podemos": {
+            "text": "Podemos",
+            "lemma": "poder",
+            "pos": "AUX"
+        },
+        "VOX": {
+            "text": "VOX",
+            "lemma": "VOX",
+            "pos": "PROPN"
+        },
+        "Ciudadanos": {
+            "text": "Ciudadanos",
+            "lemma": "Ciudadanos",
+            "pos": "PROPN"
+        },
+        "ERC": {
+            "text": "ERC",
+            "lemma": "ERC",
+            "pos": "PROPN"
+        },
+        "PACMA": {
+            "text": "PACMA",
+            "lemma": "PACMA",
+            "pos": "PROPN"
+        },
+        "diputado": {
+            "text": "diputado",
+            "lemma": "diputado",
+            "pos": "NOUN"
+        },
+        "alcalde": {
+            "text": "alcalde",
+            "lemma": "alcalde",
+            "pos": "NOUN"
+        },
+        "fiscal": {
+            "text": "fiscal",
+            "lemma": "fiscal",
+            "pos": "NOUN"
+        },
+        "senador": {
+            "text": "senador",
+            "lemma": "senador",
+            "pos": "NOUN"
+        },
+        "presidente": {
+            "text": "presidente",
+            "lemma": "presidente",
+            "pos": "NOUN"
+        },
+        "edil": {
+            "text": "edil",
+            "lemma": "edil",
+            "pos": "NOUN"
+        },
+        "Audiencia": {
+            "text": "Audiencia",
+            "lemma": "Audiencia",
+            "pos": "PROPN"
+        }
+    },
+    "PRENSA_LOCAL": {
+        "processed_text": [
+            "pueblo",
+            "municipio",
+            "comarca",
+            "alava",
+            "albacete",
+            "alacant",
+            "almeria",
+            "avila",
+            "badajoz",
+            "illes",
+            "balears",
+            "barcelona",
+            "burgos",
+            "caceres",
+            "cadiz",
+            "castello",
+            "cordoba",
+            "coruna",
+            "cuenca",
+            "girona",
+            "granada",
+            "guadalajara",
+            "gipuzkoa",
+            "huelva",
+            "huesca",
+            "jaen",
+            "leon",
+            "lleida",
+            "rioja",
+            "lugo",
+            "madrid",
+            "malaga",
+            "murcia",
+            "nafarroa",
+            "ourense",
+            "asturias",
+            "palencia",
+            "palmas",
+            "pontevedra",
+            "salamanca",
+            "tenerife",
+            "cantabria",
+            "segovia",
+            "sevilla",
+            "soria",
+            "tarragona",
+            "teruel",
+            "toledo",
+            "valencia",
+            "valladolid",
+            "bizkaia",
+            "zamora",
+            "zaragoza",
+            "ceuta",
+            "melilla"
+        ],
+        "local": {
+            "text": "local",
+            "lemma": "local",
+            "pos": "ADJ"
+        },
+        "pueblos": {
+            "text": "pueblos",
+            "lemma": "pueblo",
+            "pos": "NOUN"
+        },
+        "municipios": {
+            "text": "municipios",
+            "lemma": "municipio",
+            "pos": "NOUN"
+        },
+        "comarcas": {
+            "text": "comarcas",
+            "lemma": "comarca",
+            "pos": "NOUN"
+        },
+        "provincias": {
+            "text": "provincias",
+            "lemma": "provincia",
+            "pos": "NOUN"
+        },
+        "\u00c1lava": {
+            "text": "\u00c1lava",
+            "lemma": "\u00c1lava",
+            "pos": "PROPN"
+        },
+        "Albacete": {
+            "text": "Albacete",
+            "lemma": "Albacete",
+            "pos": "PROPN"
+        },
+        "Alacant": {
+            "text": "Alacant",
+            "lemma": "Alacant",
+            "pos": "PROPN"
+        },
+        "Almer\u00eda": {
+            "text": "Almer\u00eda",
+            "lemma": "Almer\u00eda",
+            "pos": "PROPN"
+        },
+        "\u00c1vila": {
+            "text": "\u00c1vila",
+            "lemma": "\u00c1vila",
+            "pos": "PROPN"
+        },
+        "Badajoz": {
+            "text": "Badajoz",
+            "lemma": "Badajoz",
+            "pos": "PROPN"
+        },
+        "Illes Balears": {
+            "text": "Illes",
+            "lemma": "Illes",
+            "pos": "PROPN"
+        },
+        "Barcelona": {
+            "text": "Barcelona",
+            "lemma": "Barcelona",
+            "pos": "PROPN"
+        },
+        "Burgos": {
+            "text": "Burgos",
+            "lemma": "Burgos",
+            "pos": "PROPN"
+        },
+        "C\u00e1ceres": {
+            "text": "C\u00e1ceres",
+            "lemma": "C\u00e1ceres",
+            "pos": "PROPN"
+        },
+        "C\u00e1diz": {
+            "text": "C\u00e1diz",
+            "lemma": "C\u00e1diz",
+            "pos": "PROPN"
+        },
+        "Castell\u00f3": {
+            "text": "Castell\u00f3",
+            "lemma": "Castell\u00f3",
+            "pos": "PROPN"
+        },
+        "C\u00f3rdoba": {
+            "text": "C\u00f3rdoba",
+            "lemma": "C\u00f3rdoba",
+            "pos": "PROPN"
+        },
+        "Coru\u00f1a": {
+            "text": "Coru\u00f1a",
+            "lemma": "Coru\u00f1a",
+            "pos": "PROPN"
+        },
+        "Cuenca": {
+            "text": "Cuenca",
+            "lemma": "Cuenca",
+            "pos": "PROPN"
+        },
+        "Girona": {
+            "text": "Girona",
+            "lemma": "Girona",
+            "pos": "PROPN"
+        },
+        "Granada": {
+            "text": "Granada",
+            "lemma": "Granada",
+            "pos": "PROPN"
+        },
+        "Guadalajara": {
+            "text": "Guadalajara",
+            "lemma": "Guadalajara",
+            "pos": "PROPN"
+        },
+        "Gipuzkoa": {
+            "text": "Gipuzkoa",
+            "lemma": "Gipuzkoa",
+            "pos": "PROPN"
+        },
+        "Huelva": {
+            "text": "Huelva",
+            "lemma": "Huelva",
+            "pos": "PROPN"
+        },
+        "Huesca": {
+            "text": "Huesca",
+            "lemma": "Huesca",
+            "pos": "PROPN"
+        },
+        "Ja\u00e9n": {
+            "text": "Ja\u00e9n",
+            "lemma": "Ja\u00e9n",
+            "pos": "PROPN"
+        },
+        "Le\u00f3n": {
+            "text": "Le\u00f3n",
+            "lemma": "Le\u00f3n",
+            "pos": "PROPN"
+        },
+        "Lleida": {
+            "text": "Lleida",
+            "lemma": "Lleida",
+            "pos": "PROPN"
+        },
+        "Rioja": {
+            "text": "Rioja",
+            "lemma": "Rioja",
+            "pos": "PROPN"
+        },
+        "Lugo": {
+            "text": "Lugo",
+            "lemma": "Lugo",
+            "pos": "PROPN"
+        },
+        "Madrid": {
+            "text": "Madrid",
+            "lemma": "Madrid",
+            "pos": "PROPN"
+        },
+        "M\u00e1laga": {
+            "text": "M\u00e1laga",
+            "lemma": "M\u00e1laga",
+            "pos": "PROPN"
+        },
+        "Murcia": {
+            "text": "Murcia",
+            "lemma": "Murcia",
+            "pos": "PROPN"
+        },
+        "Nafarroa": {
+            "text": "Nafarroa",
+            "lemma": "Nafarroa",
+            "pos": "PROPN"
+        },
+        "Ourense": {
+            "text": "Ourense",
+            "lemma": "Ourense",
+            "pos": "PROPN"
+        },
+        "Asturias": {
+            "text": "Asturias",
+            "lemma": "Asturias",
+            "pos": "PROPN"
+        },
+        "Palencia": {
+            "text": "Palencia",
+            "lemma": "Palencia",
+            "pos": "PROPN"
+        },
+        "Palmas": {
+            "text": "Palmas",
+            "lemma": "Palmas",
+            "pos": "PROPN"
+        },
+        "Pontevedra": {
+            "text": "Pontevedra",
+            "lemma": "Pontevedra",
+            "pos": "PROPN"
+        },
+        "Salamanca": {
+            "text": "Salamanca",
+            "lemma": "Salamanca",
+            "pos": "PROPN"
+        },
+        "Tenerife": {
+            "text": "Tenerife",
+            "lemma": "Tenerife",
+            "pos": "PROPN"
+        },
+        "Cantabria": {
+            "text": "Cantabria",
+            "lemma": "Cantabria",
+            "pos": "PROPN"
+        },
+        "Segovia": {
+            "text": "Segovia",
+            "lemma": "Segovia",
+            "pos": "PROPN"
+        },
+        "Sevilla": {
+            "text": "Sevilla",
+            "lemma": "Sevilla",
+            "pos": "PROPN"
+        },
+        "Soria": {
+            "text": "Soria",
+            "lemma": "Soria",
+            "pos": "PROPN"
+        },
+        "Tarragona": {
+            "text": "Tarragona",
+            "lemma": "Tarragona",
+            "pos": "PROPN"
+        },
+        "Teruel": {
+            "text": "Teruel",
+            "lemma": "Teruel",
+            "pos": "PROPN"
+        },
+        "Toledo": {
+            "text": "Toledo",
+            "lemma": "Toledo",
+            "pos": "PROPN"
+        },
+        "Val\u00e9ncia": {
+            "text": "Val\u00e9ncia",
+            "lemma": "Val\u00e9ncia",
+            "pos": "PROPN"
+        },
+        "Valladolid": {
+            "text": "Valladolid",
+            "lemma": "Valladolid",
+            "pos": "PROPN"
+        },
+        "Bizkaia": {
+            "text": "Bizkaia",
+            "lemma": "Bizkaia",
+            "pos": "PROPN"
+        },
+        "Zamora": {
+            "text": "Zamora",
+            "lemma": "Zamora",
+            "pos": "PROPN"
+        },
+        "Zaragoza": {
+            "text": "Zaragoza",
+            "lemma": "Zaragoza",
+            "pos": "PROPN"
+        },
+        "Ceuta": {
+            "text": "Ceuta",
+            "lemma": "Ceuta",
+            "pos": "PROPN"
+        },
+        "Melilla": {
+            "text": "Melilla",
+            "lemma": "Melilla",
+            "pos": "PROPN"
+        }
+    },
+    "SALUD": {
+        "processed_text": [
+            "salud",
+            "bienestar",
+            "vida",
+            "meditacion",
+            "yoga",
+            "mindfulness",
+            "sanidad",
+            "health",
+            "medicina",
+            "farmacos",
+            "farmacia",
+            "farmaceutico",
+            "vacuna",
+            "tratamiento",
+            "remedio",
+            "contagio",
+            "prevencion"
+        ],
+        "salud": {
+            "text": "salud",
+            "lemma": "salud",
+            "pos": "NOUN"
+        },
+        "bienestar": {
+            "text": "bienestar",
+            "lemma": "bienestar",
+            "pos": "NOUN"
+        },
+        "autoayuda": {
+            "text": "autoayuda",
+            "lemma": "autoayuda",
+            "pos": "NOUN"
+        },
+        "vida": {
+            "text": "vida",
+            "lemma": "vida",
+            "pos": "NOUN"
+        },
+        "meditaci\u00f3n": {
+            "text": "meditaci\u00f3n",
+            "lemma": "meditaci\u00f3n",
+            "pos": "NOUN"
+        },
+        "yoga": {
+            "text": "yoga",
+            "lemma": "yoga",
+            "pos": "PROPN"
+        },
+        "mindfulness": {
+            "text": "mindfulness",
+            "lemma": "mindfulness",
+            "pos": "PROPN"
+        },
+        "sanidad": {
+            "text": "sanidad",
+            "lemma": "sanidad",
+            "pos": "NOUN"
+        },
+        "health": {
+            "text": "health",
+            "lemma": "health",
+            "pos": "NOUN"
+        },
+        "medicina": {
+            "text": "medicina",
+            "lemma": "medicina",
+            "pos": "NOUN"
+        },
+        "farmacos": {
+            "text": "farmacos",
+            "lemma": "farmaco",
+            "pos": "NOUN"
+        },
+        "farmacia": {
+            "text": "farmacia",
+            "lemma": "farmacia",
+            "pos": "NOUN"
+        },
+        "farmaceutico": {
+            "text": "farmaceutico",
+            "lemma": "farmaceutico",
+            "pos": "ADJ"
+        },
+        "vacuna": {
+            "text": "vacuna",
+            "lemma": "vacuna",
+            "pos": "NOUN"
+        },
+        "tratamiento": {
+            "text": "tratamiento",
+            "lemma": "tratamiento",
+            "pos": "NOUN"
+        },
+        "remedio": {
+            "text": "remedio",
+            "lemma": "remedio",
+            "pos": "NOUN"
+        },
+        "contagio": {
+            "text": "contagio",
+            "lemma": "contagio",
+            "pos": "NOUN"
+        },
+        "prevenci\u00f3n": {
+            "text": "prevenci\u00f3n",
+            "lemma": "prevenci\u00f3n",
+            "pos": "NOUN"
+        },
+        "s\u00edntoma": {
+            "text": "s\u00edntoma",
+            "lemma": "s\u00edntoma",
+            "pos": "NOUN"
+        }
+    },
+    "SUPERHEROES": {
+        "processed_text": [
+            "marvel",
+            "dc",
+            "superheroes",
+            "comic",
+            "batman",
+            "superman",
+            "ironman",
+            "antman",
+            "deadpool",
+            "hulk",
+            "wolverine",
+            "spiderman",
+            "superpoderes",
+            "avengers",
+            "vengadores",
+            "stark",
+            "aquaman",
+            "thanos",
+            "star",
+            "wars",
+            "disney",
+            "darth",
+            "vader",
+            "skywalker"
+        ],
+        "marvel": {
+            "text": "marvel",
+            "lemma": "marvel",
+            "pos": "PROPN"
+        },
+        "dc": {
+            "text": "dc",
+            "lemma": "dc",
+            "pos": "PROPN"
+        },
+        "superheroes": {
+            "text": "superheroes",
+            "lemma": "superhero",
+            "pos": "NOUN"
+        },
+        "comic": {
+            "text": "comic",
+            "lemma": "comic",
+            "pos": "NOUN"
+        },
+        "batman": {
+            "text": "batman",
+            "lemma": "batman",
+            "pos": "PROPN"
+        },
+        "superman": {
+            "text": "superman",
+            "lemma": "superman",
+            "pos": "PROPN"
+        },
+        "ironman": {
+            "text": "ironman",
+            "lemma": "ironman",
+            "pos": "PROPN"
+        },
+        "antman": {
+            "text": "antman",
+            "lemma": "antman",
+            "pos": "PROPN"
+        },
+        "Deadpool": {
+            "text": "Deadpool",
+            "lemma": "Deadpool",
+            "pos": "PROPN"
+        },
+        "Hulk": {
+            "text": "Hulk",
+            "lemma": "Hulk",
+            "pos": "PROPN"
+        },
+        "Wolverine": {
+            "text": "Wolverine",
+            "lemma": "Wolverine",
+            "pos": "PROPN"
+        },
+        "spiderman": {
+            "text": "spiderman",
+            "lemma": "spiderman",
+            "pos": "PROPN"
+        },
+        "superpoderes": {
+            "text": "superpoderes",
+            "lemma": "superpoder",
+            "pos": "NOUN"
+        },
+        "avengers": {
+            "text": "avengers",
+            "lemma": "avengers",
+            "pos": "PROPN"
+        },
+        "vengadores": {
+            "text": "vengadores",
+            "lemma": "vengador",
+            "pos": "NOUN"
+        },
+        "stark": {
+            "text": "stark",
+            "lemma": "stark",
+            "pos": "PROPN"
+        },
+        "aquaman": {
+            "text": "aquaman",
+            "lemma": "aquaman",
+            "pos": "PROPN"
+        },
+        "thanos": {
+            "text": "thanos",
+            "lemma": "thanos",
+            "pos": "VERB"
+        },
+        "star": {
+            "text": "star",
+            "lemma": "star",
+            "pos": "VERB"
+        },
+        "wars": {
+            "text": "wars",
+            "lemma": "wars",
+            "pos": "PROPN"
+        },
+        "disney": {
+            "text": "disney",
+            "lemma": "disney",
+            "pos": "PROPN"
+        },
+        "darth": {
+            "text": "darth",
+            "lemma": "darth",
+            "pos": "VERB"
+        },
+        "vader": {
+            "text": "vader",
+            "lemma": "vader",
+            "pos": "PROPN"
+        },
+        "skywalker": {
+            "text": "skywalker",
+            "lemma": "skywalker",
+            "pos": "PROPN"
+        }
+    },
+    "TECNOLOGIA": {
+        "processed_text": [
+            "portatil",
+            "mac",
+            "iphone",
+            "android",
+            "google",
+            "tecnologia",
+            "algoritmo",
+            "gadget",
+            "tech",
+            "technology",
+            "apple",
+            "microsoft",
+            "g",
+            "iot",
+            "ux",
+            "ui",
+            "diseno",
+            "headset",
+            "ordenador"
+        ],
+        "portatiles": {
+            "text": "portatiles",
+            "lemma": "portatil",
+            "pos": "NOUN"
+        },
+        "mac": {
+            "text": "mac",
+            "lemma": "mac",
+            "pos": "PROPN"
+        },
+        "iphone": {
+            "text": "iphone",
+            "lemma": "iphone",
+            "pos": "NOUN"
+        },
+        "android": {
+            "text": "android",
+            "lemma": "android",
+            "pos": "PROPN"
+        },
+        "google": {
+            "text": "google",
+            "lemma": "google",
+            "pos": "PROPN"
+        },
+        "tecnologia": {
+            "text": "tecnologia",
+            "lemma": "tecnologia",
+            "pos": "PROPN"
+        },
+        "data": {
+            "text": "data",
+            "lemma": "datar",
+            "pos": "VERB"
+        },
+        "algoritmos": {
+            "text": "algoritmos",
+            "lemma": "algoritmo",
+            "pos": "NOUN"
+        },
+        "gadgets": {
+            "text": "gadgets",
+            "lemma": "gadget",
+            "pos": "NOUN"
+        },
+        "werables": {
+            "text": "werables",
+            "lemma": "werabl",
+            "pos": "ADJ"
+        },
+        "tech": {
+            "text": "tech",
+            "lemma": "tech",
+            "pos": "PROPN"
+        },
+        "technology": {
+            "text": "technology",
+            "lemma": "technology",
+            "pos": "PROPN"
+        },
+        "apple": {
+            "text": "apple",
+            "lemma": "apple",
+            "pos": "PROPN"
+        },
+        "microsoft": {
+            "text": "microsoft",
+            "lemma": "microsoft",
+            "pos": "PROPN"
+        },
+        "5g": {
+            "text": "5",
+            "lemma": "5",
+            "pos": "NUM"
+        },
+        "iot": {
+            "text": "iot",
+            "lemma": "iot",
+            "pos": "PROPN"
+        },
+        "ux": {
+            "text": "ux",
+            "lemma": "ux",
+            "pos": "PRON"
+        },
+        "ui": {
+            "text": "ui",
+            "lemma": "ui",
+            "pos": "PROPN"
+        },
+        "diseno": {
+            "text": "diseno",
+            "lemma": "diseno",
+            "pos": "PROPN"
+        },
+        "headset": {
+            "text": "headset",
+            "lemma": "headset",
+            "pos": "NOUN"
+        },
+        "ordenadores": {
+            "text": "ordenadores",
+            "lemma": "ordenador",
+            "pos": "NOUN"
+        }
+    },
+    "ANIMALES": {
+        "processed_text": [
+            "animal",
+            "animal",
+            "naturaleza",
+            "ciencia",
+            "nature",
+            "science",
+            "ave",
+            "extincion",
+            "mamifero",
+            "mascota",
+            "carnivoro",
+            "herviboro",
+            "safari",
+            "hembra",
+            "macho",
+            "especie",
+            "mascota",
+            "habitat"
+        ],
+        "animal": {
+            "text": "animal",
+            "lemma": "animal",
+            "pos": "PROPN"
+        },
+        "animales": {
+            "text": "animales",
+            "lemma": "animal",
+            "pos": "NOUN"
+        },
+        "naturaleza": {
+            "text": "naturaleza",
+            "lemma": "naturaleza",
+            "pos": "NOUN"
+        },
+        "ciencia": {
+            "text": "ciencia",
+            "lemma": "ciencia",
+            "pos": "NOUN"
+        },
+        "nature": {
+            "text": "nature",
+            "lemma": "nature",
+            "pos": "PROPN"
+        },
+        "science": {
+            "text": "science",
+            "lemma": "science",
+            "pos": "PROPN"
+        },
+        "aves": {
+            "text": "aves",
+            "lemma": "ave",
+            "pos": "NOUN"
+        },
+        "extinci\u00f3n": {
+            "text": "extinci\u00f3n",
+            "lemma": "extinci\u00f3n",
+            "pos": "NOUN"
+        },
+        "mam\u00edfero": {
+            "text": "mam\u00edfero",
+            "lemma": "mam\u00edfero",
+            "pos": "NOUN"
+        },
+        "mascota": {
+            "text": "mascota",
+            "lemma": "mascota",
+            "pos": "NOUN"
+        },
+        "carn\u00edvoro": {
+            "text": "carn\u00edvoro",
+            "lemma": "carn\u00edvoro",
+            "pos": "ADJ"
+        },
+        "herv\u00edboro": {
+            "text": "herv\u00edboro",
+            "lemma": "herv\u00edboro",
+            "pos": "NOUN"
+        },
+        "marsupial": {
+            "text": "marsupial",
+            "lemma": "marsupial",
+            "pos": "ADJ"
+        },
+        "safari": {
+            "text": "safari",
+            "lemma": "safari",
+            "pos": "PROPN"
+        },
+        "hembra": {
+            "text": "hembra",
+            "lemma": "hembra",
+            "pos": "NOUN"
+        },
+        "macho": {
+            "text": "macho",
+            "lemma": "macho",
+            "pos": "PROPN"
+        },
+        "especie": {
+            "text": "especie",
+            "lemma": "especie",
+            "pos": "NOUN"
+        },
+        "h\u00e1bitat": {
+            "text": "h\u00e1bitat",
+            "lemma": "h\u00e1bitat",
+            "pos": "NOUN"
+        }
+    },
+    "BALONCESTO": {
+        "processed_text": [
+            "baloncesto",
+            "basket",
+            "basketball",
+            "nba",
+            "eurobasket",
+            "liga",
+            "endesa",
+            "euroliga",
+            "eurocup",
+            "thompson",
+            "leonard",
+            "williamson",
+            "murray",
+            "simmons",
+            "irving",
+            "booker",
+            "butler",
+            "george",
+            "doncic",
+            "embiid",
+            "lebron",
+            "james",
+            "jordan",
+            "jokic",
+            "curry",
+            "durant",
+            "antetokounmpo",
+            "lakers",
+            "celtics",
+            "raptors",
+            "thunder",
+            "pistons",
+            "spurs",
+            "heat",
+            "timberwolves",
+            "mavericks",
+            "knicks",
+            "bulls",
+            "pelicans",
+            "grizzlies",
+            "cavaliers",
+            "nets",
+            "bulls",
+            "warriors",
+            "acb",
+            "nba",
+            "canasta"
+        ],
+        "baloncesto": {
+            "text": "baloncesto",
+            "lemma": "baloncesto",
+            "pos": "NOUN"
+        },
+        "basket": {
+            "text": "basket",
+            "lemma": "basket",
+            "pos": "PROPN"
+        },
+        "basketball": {
+            "text": "basketball",
+            "lemma": "basketball",
+            "pos": "PROPN"
+        },
+        "nba": {
+            "text": "nba",
+            "lemma": "nba",
+            "pos": "PROPN"
+        },
+        "eurobasket": {
+            "text": "eurobasket",
+            "lemma": "eurobasket",
+            "pos": "ADJ"
+        },
+        "liga": {
+            "text": "liga",
+            "lemma": "liga",
+            "pos": "NOUN"
+        },
+        "endesa": {
+            "text": "endesa",
+            "lemma": "end\u00e9s",
+            "pos": "ADJ"
+        },
+        "euroliga": {
+            "text": "euroliga",
+            "lemma": "euroliga",
+            "pos": "PROPN"
+        },
+        "eurocup": {
+            "text": "eurocup",
+            "lemma": "eurocup",
+            "pos": "PROPN"
+        },
+        "fiba": {
+            "text": "fiba",
+            "lemma": "fiba",
+            "pos": "PROPN"
+        },
+        "Thompson": {
+            "text": "Thompson",
+            "lemma": "Thompson",
+            "pos": "PROPN"
+        },
+        "Leonard": {
+            "text": "Leonard",
+            "lemma": "Leonard",
+            "pos": "PROPN"
+        },
+        "Williamson": {
+            "text": "Williamson",
+            "lemma": "Williamson",
+            "pos": "PROPN"
+        },
+        "Murray": {
+            "text": "Murray",
+            "lemma": "Murray",
+            "pos": "PROPN"
+        },
+        "Simmons": {
+            "text": "Simmons",
+            "lemma": "Simmons",
+            "pos": "PROPN"
+        },
+        "Irving": {
+            "text": "Irving",
+            "lemma": "Irving",
+            "pos": "PROPN"
+        },
+        "Booker": {
+            "text": "Booker",
+            "lemma": "Booker",
+            "pos": "PROPN"
+        },
+        "Butler": {
+            "text": "Butler",
+            "lemma": "Butler",
+            "pos": "PROPN"
+        },
+        "George": {
+            "text": "George",
+            "lemma": "George",
+            "pos": "PROPN"
+        },
+        "Doncic": {
+            "text": "Doncic",
+            "lemma": "Doncic",
+            "pos": "PROPN"
+        },
+        "Embiid": {
+            "text": "Embiid",
+            "lemma": "Embiid",
+            "pos": "PROPN"
+        },
+        "LeBron": {
+            "text": "LeBron",
+            "lemma": "LeBron",
+            "pos": "PROPN"
+        },
+        "James": {
+            "text": "James",
+            "lemma": "James",
+            "pos": "PROPN"
+        },
+        "Jordan": {
+            "text": "Jordan",
+            "lemma": "Jordan",
+            "pos": "PROPN"
+        },
+        "Jokic": {
+            "text": "Jokic",
+            "lemma": "Jokic",
+            "pos": "PROPN"
+        },
+        "Curry": {
+            "text": "Curry",
+            "lemma": "Curry",
+            "pos": "PROPN"
+        },
+        "Durant": {
+            "text": "Durant",
+            "lemma": "Durant",
+            "pos": "PROPN"
+        },
+        "Antetokounmpo": {
+            "text": "Antetokounmpo",
+            "lemma": "Antetokounmpo",
+            "pos": "PROPN"
+        },
+        "Lakers": {
+            "text": "Lakers",
+            "lemma": "Lakers",
+            "pos": "PROPN"
+        },
+        "Celtics": {
+            "text": "Celtics",
+            "lemma": "Celtics",
+            "pos": "PROPN"
+        },
+        "Raptors": {
+            "text": "Raptors",
+            "lemma": "Raptors",
+            "pos": "PROPN"
+        },
+        "Thunder": {
+            "text": "Thunder",
+            "lemma": "Thunder",
+            "pos": "PROPN"
+        },
+        "Pistons": {
+            "text": "Pistons",
+            "lemma": "Pistons",
+            "pos": "PROPN"
+        },
+        "Spurs": {
+            "text": "Spurs",
+            "lemma": "Spurs",
+            "pos": "PROPN"
+        },
+        "Heat": {
+            "text": "Heat",
+            "lemma": "Heat",
+            "pos": "PROPN"
+        },
+        "Timberwolves": {
+            "text": "Timberwolves",
+            "lemma": "Timberwolves",
+            "pos": "PROPN"
+        },
+        "Mavericks": {
+            "text": "Mavericks",
+            "lemma": "Mavericks",
+            "pos": "PROPN"
+        },
+        "Knicks": {
+            "text": "Knicks",
+            "lemma": "Knicks",
+            "pos": "PROPN"
+        },
+        "Bulls": {
+            "text": "Bulls",
+            "lemma": "Bulls",
+            "pos": "PROPN"
+        },
+        "Pelicans": {
+            "text": "Pelicans",
+            "lemma": "Pelicans",
+            "pos": "PROPN"
+        },
+        "Grizzlies": {
+            "text": "Grizzlies",
+            "lemma": "Grizzlies",
+            "pos": "PROPN"
+        },
+        "Cavaliers": {
+            "text": "Cavaliers",
+            "lemma": "Cavaliers",
+            "pos": "PROPN"
+        },
+        "76ers": {
+            "text": "76ers",
+            "lemma": "76ers",
+            "pos": "NUM"
+        },
+        "Nets": {
+            "text": "Nets",
+            "lemma": "Nets",
+            "pos": "PROPN"
+        },
+        "Warriors": {
+            "text": "Warriors",
+            "lemma": "Warriors",
+            "pos": "PROPN"
+        },
+        "ACB": {
+            "text": "ACB",
+            "lemma": "ACB",
+            "pos": "PROPN"
+        },
+        "NBA": {
+            "text": "NBA",
+            "lemma": "NBA",
+            "pos": "PROPN"
+        },
+        "canasta": {
+            "text": "canasta",
+            "lemma": "canasta",
+            "pos": "NOUN"
+        }
+    },
+    "CINE_SERIES": {
+        "processed_text": [
+            "cine",
+            "serie",
+            "netflix",
+            "hbo",
+            "filmin",
+            "disney",
+            "prime",
+            "actriz",
+            "actor",
+            "movistar",
+            "produccion",
+            "warner",
+            "universal",
+            "narco",
+            "entretenimiento",
+            "movies",
+            "comedia",
+            "accion",
+            "drama",
+            "biografia",
+            "monografia",
+            "historia",
+            "hulu",
+            "hallmark",
+            "pelis",
+            "palomita",
+            "chill"
+        ],
+        "cine": {
+            "text": "cine",
+            "lemma": "cine",
+            "pos": "NOUN"
+        },
+        "series": {
+            "text": "series",
+            "lemma": "serie",
+            "pos": "NOUN"
+        },
+        "netflix": {
+            "text": "netflix",
+            "lemma": "netflix",
+            "pos": "PROPN"
+        },
+        "hbo": {
+            "text": "hbo",
+            "lemma": "hbo",
+            "pos": "PROPN"
+        },
+        "filmin": {
+            "text": "filmin",
+            "lemma": "filmin",
+            "pos": "ADJ"
+        },
+        "disney": {
+            "text": "disney",
+            "lemma": "disney",
+            "pos": "PROPN"
+        },
+        "prime": {
+            "text": "prime",
+            "lemma": "prime",
+            "pos": "ADJ"
+        },
+        "actrices": {
+            "text": "actrices",
+            "lemma": "actriz",
+            "pos": "NOUN"
+        },
+        "actores": {
+            "text": "actores",
+            "lemma": "actor",
+            "pos": "NOUN"
+        },
+        "movistar": {
+            "text": "movistar",
+            "lemma": "movistar",
+            "pos": "VERB"
+        },
+        "produccion": {
+            "text": "produccion",
+            "lemma": "produccion",
+            "pos": "PROPN"
+        },
+        "warner": {
+            "text": "warner",
+            "lemma": "warner",
+            "pos": "PROPN"
+        },
+        "universal": {
+            "text": "universal",
+            "lemma": "universal",
+            "pos": "PROPN"
+        },
+        "got": {
+            "text": "got",
+            "lemma": "got",
+            "pos": "NOUN"
+        },
+        "narcos": {
+            "text": "narcos",
+            "lemma": "narco",
+            "pos": "NOUN"
+        },
+        "calamar": {
+            "text": "calamar",
+            "lemma": "calamar",
+            "pos": "VERB"
+        },
+        "entretenimiento": {
+            "text": "entretenimiento",
+            "lemma": "entretenimiento",
+            "pos": "NOUN"
+        },
+        "movies": {
+            "text": "movies",
+            "lemma": "movies",
+            "pos": "PROPN"
+        },
+        "comedia": {
+            "text": "comedia",
+            "lemma": "comedia",
+            "pos": "NOUN"
+        },
+        "accion": {
+            "text": "accion",
+            "lemma": "accion",
+            "pos": "PROPN"
+        },
+        "drama": {
+            "text": "drama",
+            "lemma": "drama",
+            "pos": "NOUN"
+        },
+        "biografia": {
+            "text": "biografia",
+            "lemma": "biografia",
+            "pos": "PROPN"
+        },
+        "monografia": {
+            "text": "monografia",
+            "lemma": "monografia",
+            "pos": "PROPN"
+        },
+        "documental": {
+            "text": "documental",
+            "lemma": "documental",
+            "pos": "ADJ"
+        },
+        "hechos": {
+            "text": "hechos",
+            "lemma": "hacer",
+            "pos": "VERB"
+        },
+        "historia": {
+            "text": "historia",
+            "lemma": "historia",
+            "pos": "NOUN"
+        },
+        "actualidad": {
+            "text": "actualidad",
+            "lemma": "actualidad",
+            "pos": "NOUN"
+        },
+        "hulu": {
+            "text": "hulu",
+            "lemma": "hulu",
+            "pos": "NOUN"
+        },
+        "hallmark": {
+            "text": "hallmark",
+            "lemma": "hallmark",
+            "pos": "PROPN"
+        },
+        "pelis": {
+            "text": "pelis",
+            "lemma": "peli",
+            "pos": "NOUN"
+        },
+        "cinesa": {
+            "text": "cinesa",
+            "lemma": "cin\u00e9s",
+            "pos": "ADJ"
+        },
+        "cinefilo": {
+            "text": "cinefilo",
+            "lemma": "cinefilo",
+            "pos": "ADJ"
+        },
+        "backstage": {
+            "text": "backstage",
+            "lemma": "backstage",
+            "pos": "NOUN"
+        },
+        "palomitas": {
+            "text": "palomitas",
+            "lemma": "palomita",
+            "pos": "NOUN"
+        },
+        "chill": {
+            "text": "chill",
+            "lemma": "chill",
+            "pos": "NOUN"
+        }
+    },
+    "CRIPTOMONEDAS": {
+        "processed_text": [
+            "criptomoneda",
+            "crypto",
+            "bitcoin",
+            "kucoin",
+            "binance",
+            "blockchain",
+            "altcoin",
+            "coinbase",
+            "smart",
+            "contract",
+            "token",
+            "wallet",
+            "ethereum",
+            "merge",
+            "kraken",
+            "nft",
+            "staking",
+            "dogecoin",
+            "ada",
+            "eth",
+            "btc",
+            "usdt",
+            "bnb",
+            "busd",
+            "sol",
+            "doge",
+            "matic",
+            "shib"
+        ],
+        "criptomonedas": {
+            "text": "criptomonedas",
+            "lemma": "criptomoneda",
+            "pos": "NOUN"
+        },
+        "crypto": {
+            "text": "crypto",
+            "lemma": "crypto",
+            "pos": "NOUN"
+        },
+        "bitcoin": {
+            "text": "bitcoin",
+            "lemma": "bitcoin",
+            "pos": "NOUN"
+        },
+        "kucoin": {
+            "text": "kucoin",
+            "lemma": "kucoin",
+            "pos": "PROPN"
+        },
+        "binance": {
+            "text": "binance",
+            "lemma": "binance",
+            "pos": "PROPN"
+        },
+        "blockchain": {
+            "text": "blockchain",
+            "lemma": "blockchain",
+            "pos": "NOUN"
+        },
+        "altcoin": {
+            "text": "altcoin",
+            "lemma": "altcoin",
+            "pos": "NOUN"
+        },
+        "coinbase": {
+            "text": "coinbase",
+            "lemma": "coinbar",
+            "pos": "VERB"
+        },
+        "smart": {
+            "text": "smart",
+            "lemma": "smart",
+            "pos": "PROPN"
+        },
+        "contract": {
+            "text": "contract",
+            "lemma": "contract",
+            "pos": "PROPN"
+        },
+        "token": {
+            "text": "token",
+            "lemma": "token",
+            "pos": "NOUN"
+        },
+        "wallet": {
+            "text": "wallet",
+            "lemma": "wallet",
+            "pos": "PROPN"
+        },
+        "ethereum": {
+            "text": "ethereum",
+            "lemma": "ethereum",
+            "pos": "NOUN"
+        },
+        "merge": {
+            "text": "merge",
+            "lemma": "mergir",
+            "pos": "VERB"
+        },
+        "cardano": {
+            "text": "cardano",
+            "lemma": "cardano",
+            "pos": "ADJ"
+        },
+        "kraken": {
+            "text": "kraken",
+            "lemma": "kraken",
+            "pos": "PROPN"
+        },
+        "nft": {
+            "text": "nft",
+            "lemma": "nft",
+            "pos": "VERB"
+        },
+        "staking": {
+            "text": "staking",
+            "lemma": "staking",
+            "pos": "PROPN"
+        },
+        "dogecoin": {
+            "text": "dogecoin",
+            "lemma": "dogecoin",
+            "pos": "NOUN"
+        },
+        "ADA": {
+            "text": "ADA",
+            "lemma": "ADA",
+            "pos": "PROPN"
+        },
+        "ETH": {
+            "text": "ETH",
+            "lemma": "ETH",
+            "pos": "PROPN"
+        },
+        "BTC": {
+            "text": "BTC",
+            "lemma": "btc",
+            "pos": "NOUN"
+        },
+        "USDT": {
+            "text": "USDT",
+            "lemma": "USDT",
+            "pos": "PROPN"
+        },
+        "BNB": {
+            "text": "BNB",
+            "lemma": "BNB",
+            "pos": "PROPN"
+        },
+        "BUSD": {
+            "text": "BUSD",
+            "lemma": "busd",
+            "pos": "NOUN"
+        },
+        "SOL": {
+            "text": "SOL",
+            "lemma": "SOL",
+            "pos": "PROPN"
+        },
+        "DOGE": {
+            "text": "DOGE",
+            "lemma": "doge",
+            "pos": "NOUN"
+        },
+        "MATIC": {
+            "text": "MATIC",
+            "lemma": "MATIC",
+            "pos": "PROPN"
+        },
+        "SHIB": {
+            "text": "SHIB",
+            "lemma": "SHIB",
+            "pos": "PROPN"
+        }
+    },
+    "EMPRESA": {
+        "processed_text": [
+            "empresa",
+            "company",
+            "compania",
+            "sl",
+            "negocio",
+            "business",
+            "franquicia"
+        ],
+        "empresa": {
+            "text": "empresa",
+            "lemma": "empresa",
+            "pos": "NOUN"
+        },
+        "company": {
+            "text": "company",
+            "lemma": "company",
+            "pos": "PROPN"
+        },
+        "compa\u00f1ia": {
+            "text": "compa\u00f1ia",
+            "lemma": "compa\u00f1ia",
+            "pos": "PROPN"
+        },
+        "sl": {
+            "text": "sl",
+            "lemma": "sl",
+            "pos": "ADP"
+        },
+        "negocio": {
+            "text": "negocio",
+            "lemma": "negocio",
+            "pos": "NOUN"
+        },
+        "business": {
+            "text": "business",
+            "lemma": "business",
+            "pos": "NOUN"
+        },
+        "franquicia": {
+            "text": "franquicia",
+            "lemma": "franquicia",
+            "pos": "NOUN"
+        }
+    },
+    "ENERGIA": {
+        "processed_text": [
+            "energia",
+            "gas",
+            "energy",
+            "hidrogeno",
+            "electricidad",
+            "oil",
+            "petroleo",
+            "eolico",
+            "biomasa",
+            "fosil",
+            "carbon",
+            "electrico",
+            "panel",
+            "placa",
+            "calentador"
+        ],
+        "energia": {
+            "text": "energia",
+            "lemma": "energia",
+            "pos": "NOUN"
+        },
+        "gas": {
+            "text": "gas",
+            "lemma": "gas",
+            "pos": "NOUN"
+        },
+        "energy": {
+            "text": "energy",
+            "lemma": "energy",
+            "pos": "PROPN"
+        },
+        "hidrogeno": {
+            "text": "hidrogeno",
+            "lemma": "hidrogeno",
+            "pos": "NOUN"
+        },
+        "electricidad": {
+            "text": "electricidad",
+            "lemma": "electricidad",
+            "pos": "NOUN"
+        },
+        "nuclear": {
+            "text": "nuclear",
+            "lemma": "nuclear",
+            "pos": "ADJ"
+        },
+        "oil": {
+            "text": "oil",
+            "lemma": "oil",
+            "pos": "NOUN"
+        },
+        "petroleo": {
+            "text": "petroleo",
+            "lemma": "petroleo",
+            "pos": "NOUN"
+        },
+        "renovable": {
+            "text": "renovable",
+            "lemma": "renovable",
+            "pos": "ADJ"
+        },
+        "eolico": {
+            "text": "eolico",
+            "lemma": "eolico",
+            "pos": "ADJ"
+        },
+        "eolica": {
+            "text": "eolica",
+            "lemma": "eolico",
+            "pos": "ADJ"
+        },
+        "biomasa": {
+            "text": "biomasa",
+            "lemma": "biomasa",
+            "pos": "NOUN"
+        },
+        "solar": {
+            "text": "solar",
+            "lemma": "solar",
+            "pos": "NOUN"
+        },
+        "fosil": {
+            "text": "fosil",
+            "lemma": "fosil",
+            "pos": "PROPN"
+        },
+        "carbon": {
+            "text": "carbon",
+            "lemma": "carbon",
+            "pos": "PROPN"
+        },
+        "electrico": {
+            "text": "electrico",
+            "lemma": "electrico",
+            "pos": "PROPN"
+        },
+        "panel": {
+            "text": "panel",
+            "lemma": "panel",
+            "pos": "NOUN"
+        },
+        "geotermica": {
+            "text": "geotermica",
+            "lemma": "geotermica",
+            "pos": "PROPN"
+        },
+        "placa": {
+            "text": "placa",
+            "lemma": "placa",
+            "pos": "NOUN"
+        },
+        "calentador": {
+            "text": "calentador",
+            "lemma": "calentador",
+            "pos": "NOUN"
+        },
+        "combustible": {
+            "text": "combustible",
+            "lemma": "combustible",
+            "pos": "NOUN"
+        },
+        "fotovoltaica": {
+            "text": "fotovoltaica",
+            "lemma": "fotovoltaica",
+            "pos": "NOUN"
+        }
+    },
+    "FORMULA_1": {
+        "processed_text": [
+            "piloto",
+            "fia",
+            "alonso",
+            "hamilton",
+            "sainz",
+            "verstappen",
+            "leclerc",
+            "vettel",
+            "ferrari",
+            "alpine",
+            "mclaren"
+        ],
+        "formula": {
+            "text": "formula",
+            "lemma": "formular",
+            "pos": "VERB"
+        },
+        "pilotos": {
+            "text": "pilotos",
+            "lemma": "piloto",
+            "pos": "NOUN"
+        },
+        "fia": {
+            "text": "fia",
+            "lemma": "fia",
+            "pos": "PROPN"
+        },
+        "Alonso": {
+            "text": "Alonso",
+            "lemma": "Alonso",
+            "pos": "PROPN"
+        },
+        "Hamilton": {
+            "text": "Hamilton",
+            "lemma": "Hamilton",
+            "pos": "PROPN"
+        },
+        "Sainz": {
+            "text": "Sainz",
+            "lemma": "Sainz",
+            "pos": "PROPN"
+        },
+        "Verstappen": {
+            "text": "Verstappen",
+            "lemma": "Verstappen",
+            "pos": "PROPN"
+        },
+        "Leclerc": {
+            "text": "Leclerc",
+            "lemma": "Leclerc",
+            "pos": "PROPN"
+        },
+        "Vettel": {
+            "text": "Vettel",
+            "lemma": "Vettel",
+            "pos": "PROPN"
+        },
+        "Ferrari": {
+            "text": "Ferrari",
+            "lemma": "Ferrari",
+            "pos": "PROPN"
+        },
+        "Alpine": {
+            "text": "Alpine",
+            "lemma": "Alpine",
+            "pos": "PROPN"
+        },
+        "Mclaren": {
+            "text": "Mclaren",
+            "lemma": "Mclaren",
+            "pos": "PROPN"
+        }
+    },
+    "FUTBOL": {
+        "processed_text": [
+            "futbol",
+            "liverpool",
+            "football",
+            "soccer",
+            "champions",
+            "liga",
+            "messi",
+            "ronaldo",
+            "florentino",
+            "benzema",
+            "hazard",
+            "courtuois",
+            "barca",
+            "atleti",
+            "betis",
+            "alaves",
+            "depor",
+            "cd",
+            "fc",
+            "ud",
+            "real",
+            "madrid",
+            "mbape",
+            "guardiola",
+            "gol",
+            "league",
+            "zidane",
+            "ancelotti",
+            "simeone",
+            "emery",
+            "lewandoski",
+            "umtiti",
+            "varane",
+            "valdano",
+            "isco",
+            "vinicius",
+            "oblak",
+            "fekir",
+            "modric",
+            "neymar",
+            "fifa",
+            "uefa",
+            "haaland",
+            "salah",
+            "pogba",
+            "depay",
+            "iniesta",
+            "dybala",
+            "juventus",
+            "bayern",
+            "borussia",
+            "lukaku",
+            "koke"
+        ],
+        "futbol": {
+            "text": "futbol",
+            "lemma": "futbol",
+            "pos": "NOUN"
+        },
+        "futbolista": {
+            "text": "futbolista",
+            "lemma": "futbolista",
+            "pos": "NOUN"
+        },
+        "liverpool": {
+            "text": "liverpool",
+            "lemma": "liverpool",
+            "pos": "PROPN"
+        },
+        "football": {
+            "text": "football",
+            "lemma": "football",
+            "pos": "PROPN"
+        },
+        "soccer": {
+            "text": "soccer",
+            "lemma": "soccer",
+            "pos": "NOUN"
+        },
+        "champions": {
+            "text": "champions",
+            "lemma": "champion",
+            "pos": "NOUN"
+        },
+        "liga": {
+            "text": "liga",
+            "lemma": "liga",
+            "pos": "NOUN"
+        },
+        "Messi": {
+            "text": "Messi",
+            "lemma": "Messi",
+            "pos": "PROPN"
+        },
+        "Ronaldo": {
+            "text": "Ronaldo",
+            "lemma": "Ronaldo",
+            "pos": "PROPN"
+        },
+        "Florentino": {
+            "text": "Florentino",
+            "lemma": "Florentino",
+            "pos": "PROPN"
+        },
+        "Benzema": {
+            "text": "Benzema",
+            "lemma": "Benzema",
+            "pos": "PROPN"
+        },
+        "Hazard": {
+            "text": "Hazard",
+            "lemma": "Hazard",
+            "pos": "PROPN"
+        },
+        "Courtuois": {
+            "text": "Courtuois",
+            "lemma": "Courtuois",
+            "pos": "PROPN"
+        },
+        "Bar\u00e7a": {
+            "text": "Bar\u00e7a",
+            "lemma": "Bar\u00e7a",
+            "pos": "PROPN"
+        },
+        "Atleti": {
+            "text": "Atleti",
+            "lemma": "Atleti",
+            "pos": "PROPN"
+        },
+        "Betis": {
+            "text": "Betis",
+            "lemma": "Betis",
+            "pos": "PROPN"
+        },
+        "Alav\u00e9s": {
+            "text": "Alav\u00e9s",
+            "lemma": "Alav\u00e9s",
+            "pos": "PROPN"
+        },
+        "Depor": {
+            "text": "Depor",
+            "lemma": "Depor",
+            "pos": "PROPN"
+        },
+        "CD": {
+            "text": "CD",
+            "lemma": "CD",
+            "pos": "PROPN"
+        },
+        "FC": {
+            "text": "FC",
+            "lemma": "FC",
+            "pos": "PROPN"
+        },
+        "UD": {
+            "text": "UD",
+            "lemma": "UD",
+            "pos": "PROPN"
+        },
+        "Real": {
+            "text": "Real",
+            "lemma": "Real",
+            "pos": "PROPN"
+        },
+        "Madrid": {
+            "text": "Madrid",
+            "lemma": "Madrid",
+            "pos": "PROPN"
+        },
+        "Mbape": {
+            "text": "Mbape",
+            "lemma": "Mbape",
+            "pos": "PROPN"
+        },
+        "Guardiola": {
+            "text": "Guardiola",
+            "lemma": "Guardiola",
+            "pos": "PROPN"
+        },
+        "gol": {
+            "text": "gol",
+            "lemma": "gol",
+            "pos": "NOUN"
+        },
+        "League": {
+            "text": "League",
+            "lemma": "League",
+            "pos": "PROPN"
+        },
+        "Zidane": {
+            "text": "Zidane",
+            "lemma": "Zidane",
+            "pos": "PROPN"
+        },
+        "Ancelotti": {
+            "text": "Ancelotti",
+            "lemma": "Ancelotti",
+            "pos": "PROPN"
+        },
+        "Simeone": {
+            "text": "Simeone",
+            "lemma": "Simeone",
+            "pos": "PROPN"
+        },
+        "Emery": {
+            "text": "Emery",
+            "lemma": "Emery",
+            "pos": "PROPN"
+        },
+        "Lewandoski": {
+            "text": "Lewandoski",
+            "lemma": "Lewandoski",
+            "pos": "PROPN"
+        },
+        "Umtiti": {
+            "text": "Umtiti",
+            "lemma": "Umtiti",
+            "pos": "PROPN"
+        },
+        "Varane": {
+            "text": "Varane",
+            "lemma": "Varane",
+            "pos": "PROPN"
+        },
+        "Valdano": {
+            "text": "Valdano",
+            "lemma": "Valdano",
+            "pos": "PROPN"
+        },
+        "Isco": {
+            "text": "Isco",
+            "lemma": "Isco",
+            "pos": "PROPN"
+        },
+        "Vinicius": {
+            "text": "Vinicius",
+            "lemma": "Vinicius",
+            "pos": "PROPN"
+        },
+        "Oblak": {
+            "text": "Oblak",
+            "lemma": "Oblak",
+            "pos": "PROPN"
+        },
+        "Fekir": {
+            "text": "Fekir",
+            "lemma": "Fekir",
+            "pos": "PROPN"
+        },
+        "Modric": {
+            "text": "Modric",
+            "lemma": "Modric",
+            "pos": "PROPN"
+        },
+        "Neymar": {
+            "text": "Neymar",
+            "lemma": "Neymar",
+            "pos": "PROPN"
+        },
+        "FIFA": {
+            "text": "FIFA",
+            "lemma": "FIFA",
+            "pos": "PROPN"
+        },
+        "UEFA": {
+            "text": "UEFA",
+            "lemma": "UEFA",
+            "pos": "PROPN"
+        },
+        "Haaland": {
+            "text": "Haaland",
+            "lemma": "Haaland",
+            "pos": "PROPN"
+        },
+        "Salah": {
+            "text": "Salah",
+            "lemma": "Salah",
+            "pos": "PROPN"
+        },
+        "Pogba": {
+            "text": "Pogba",
+            "lemma": "Pogba",
+            "pos": "PROPN"
+        },
+        "Depay": {
+            "text": "Depay",
+            "lemma": "Depay",
+            "pos": "PROPN"
+        },
+        "Iniesta": {
+            "text": "Iniesta",
+            "lemma": "Iniesta",
+            "pos": "PROPN"
+        },
+        "Dybala": {
+            "text": "Dybala",
+            "lemma": "Dybala",
+            "pos": "PROPN"
+        },
+        "Juventus": {
+            "text": "Juventus",
+            "lemma": "Juventus",
+            "pos": "PROPN"
+        },
+        "Bayern": {
+            "text": "Bayern",
+            "lemma": "Bayern",
+            "pos": "PROPN"
+        },
+        "Borussia": {
+            "text": "Borussia",
+            "lemma": "Borussia",
+            "pos": "PROPN"
+        },
+        "Lukaku": {
+            "text": "Lukaku",
+            "lemma": "Lukaku",
+            "pos": "PROPN"
+        },
+        "Koke": {
+            "text": "Koke",
+            "lemma": "Koke",
+            "pos": "PROPN"
+        }
+    },
+    "LIBROS": {
+        "processed_text": [
+            "literatura",
+            "monografias",
+            "poesia",
+            "ficcion",
+            "comedia",
+            "negocio",
+            "libros",
+            "business",
+            "historia",
+            "producto",
+            "superacion",
+            "ciencia",
+            "terror",
+            "audiolibro",
+            "relato",
+            "reverte",
+            "king",
+            "zafon",
+            "allende",
+            "benavent",
+            "planeta",
+            "nobel",
+            "premio",
+            "psicologia",
+            "sociologia",
+            "follet",
+            "animacion",
+            "ux",
+            "ui",
+            "libros",
+            "books"
+        ],
+        "cientificos": {
+            "text": "cientificos",
+            "lemma": "cientifico",
+            "pos": "ADJ"
+        },
+        "literatura": {
+            "text": "literatura",
+            "lemma": "literatura",
+            "pos": "NOUN"
+        },
+        "ling\u00fcistica": {
+            "text": "ling\u00fcistica",
+            "lemma": "ling\u00fcistico",
+            "pos": "ADJ"
+        },
+        "biografias": {
+            "text": "biografias",
+            "lemma": "biografia",
+            "pos": "NOUN"
+        },
+        "monografias": {
+            "text": "monografias",
+            "lemma": "monografia",
+            "pos": "NOUN"
+        },
+        "recreativos": {
+            "text": "recreativos",
+            "lemma": "recreativo",
+            "pos": "ADJ"
+        },
+        "poesia": {
+            "text": "poesia",
+            "lemma": "poesia",
+            "pos": "PROPN"
+        },
+        "juveniles": {
+            "text": "juveniles",
+            "lemma": "juvenil",
+            "pos": "ADJ"
+        },
+        "ficcion": {
+            "text": "ficcion",
+            "lemma": "ficcion",
+            "pos": "PROPN"
+        },
+        "comedia": {
+            "text": "comedia",
+            "lemma": "comedia",
+            "pos": "NOUN"
+        },
+        "negocio": {
+            "text": "negocio",
+            "lemma": "negocio",
+            "pos": "NOUN"
+        },
+        "libros": {
+            "text": "libros",
+            "lemma": "libro",
+            "pos": "NOUN"
+        },
+        "business": {
+            "text": "business",
+            "lemma": "business",
+            "pos": "NOUN"
+        },
+        "autoayuda": {
+            "text": "autoayuda",
+            "lemma": "autoayuda",
+            "pos": "NOUN"
+        },
+        "historia": {
+            "text": "historia",
+            "lemma": "historia",
+            "pos": "NOUN"
+        },
+        "management": {
+            "text": "management",
+            "lemma": "management",
+            "pos": "ADJ"
+        },
+        "producto": {
+            "text": "producto",
+            "lemma": "producto",
+            "pos": "NOUN"
+        },
+        "liderazgo": {
+            "text": "liderazgo",
+            "lemma": "liderazgo",
+            "pos": "NOUN"
+        },
+        "superacion": {
+            "text": "superacion",
+            "lemma": "superacion",
+            "pos": "PROPN"
+        },
+        "ciencia": {
+            "text": "ciencia",
+            "lemma": "ciencia",
+            "pos": "NOUN"
+        },
+        "terror": {
+            "text": "terror",
+            "lemma": "terror",
+            "pos": "NOUN"
+        },
+        "negra": {
+            "text": "negra",
+            "lemma": "negro",
+            "pos": "ADJ"
+        },
+        "negro": {
+            "text": "negro",
+            "lemma": "negro",
+            "pos": "ADJ"
+        },
+        "policiaco": {
+            "text": "policiaco",
+            "lemma": "policiaco",
+            "pos": "ADJ"
+        },
+        "audiolibro": {
+            "text": "audiolibro",
+            "lemma": "audiolibro",
+            "pos": "NOUN"
+        },
+        "relatos": {
+            "text": "relatos",
+            "lemma": "relato",
+            "pos": "NOUN"
+        },
+        "reverte": {
+            "text": "reverte",
+            "lemma": "reverte",
+            "pos": "ADJ"
+        },
+        "king": {
+            "text": "king",
+            "lemma": "king",
+            "pos": "PROPN"
+        },
+        "zafon": {
+            "text": "zafon",
+            "lemma": "zafon",
+            "pos": "VERB"
+        },
+        "allende": {
+            "text": "allende",
+            "lemma": "allende",
+            "pos": "VERB"
+        },
+        "benavent": {
+            "text": "benavent",
+            "lemma": "benavent",
+            "pos": "PROPN"
+        },
+        "mola": {
+            "text": "mola",
+            "lemma": "molar",
+            "pos": "VERB"
+        },
+        "planeta": {
+            "text": "planeta",
+            "lemma": "planeta",
+            "pos": "NOUN"
+        },
+        "nobel": {
+            "text": "nobel",
+            "lemma": "nobel",
+            "pos": "PROPN"
+        },
+        "premio": {
+            "text": "premio",
+            "lemma": "premio",
+            "pos": "NOUN"
+        },
+        "psicologia": {
+            "text": "psicologia",
+            "lemma": "psicologio",
+            "pos": "ADJ"
+        },
+        "sociolog\u00eda": {
+            "text": "sociolog\u00eda",
+            "lemma": "sociolog\u00eda",
+            "pos": "NOUN"
+        },
+        "follet": {
+            "text": "follet",
+            "lemma": "follet",
+            "pos": "PROPN"
+        },
+        "animacion": {
+            "text": "animacion",
+            "lemma": "animacion",
+            "pos": "PROPN"
+        },
+        "ux": {
+            "text": "ux",
+            "lemma": "ux",
+            "pos": "PRON"
+        },
+        "ui": {
+            "text": "ui",
+            "lemma": "ui",
+            "pos": "PROPN"
+        },
+        "books": {
+            "text": "books",
+            "lemma": "books",
+            "pos": "PROPN"
+        }
+    },
+    "MERCADOS": {
+        "processed_text": [
+            "economia",
+            "finanza",
+            "dinero",
+            "mercado",
+            "euro",
+            "divisa",
+            "bce",
+            "fmi",
+            "fed",
+            "ibex",
+            "nasdaq",
+            "inversion",
+            "stocks",
+            "nikei",
+            "money",
+            "market",
+            "shares",
+            "value"
+        ],
+        "economia": {
+            "text": "economia",
+            "lemma": "economia",
+            "pos": "PROPN"
+        },
+        "finanzas": {
+            "text": "finanzas",
+            "lemma": "finanza",
+            "pos": "NOUN"
+        },
+        "dinero": {
+            "text": "dinero",
+            "lemma": "dinero",
+            "pos": "NOUN"
+        },
+        "mercados": {
+            "text": "mercados",
+            "lemma": "mercado",
+            "pos": "NOUN"
+        },
+        "euro": {
+            "text": "euro",
+            "lemma": "euro",
+            "pos": "NOUN"
+        },
+        "dolar": {
+            "text": "dolar",
+            "lemma": "dolar",
+            "pos": "VERB"
+        },
+        "libra": {
+            "text": "libra",
+            "lemma": "librar",
+            "pos": "VERB"
+        },
+        "divisas": {
+            "text": "divisas",
+            "lemma": "divisa",
+            "pos": "NOUN"
+        },
+        "bce": {
+            "text": "bce",
+            "lemma": "bce",
+            "pos": "PROPN"
+        },
+        "fmi": {
+            "text": "fmi",
+            "lemma": "fmi",
+            "pos": "PROPN"
+        },
+        "fed": {
+            "text": "fed",
+            "lemma": "fed",
+            "pos": "PROPN"
+        },
+        "ibex": {
+            "text": "ibex",
+            "lemma": "ibex",
+            "pos": "PROPN"
+        },
+        "nasdaq": {
+            "text": "nasdaq",
+            "lemma": "nasdaq",
+            "pos": "PROPN"
+        },
+        "inversion": {
+            "text": "inversion",
+            "lemma": "inversion",
+            "pos": "PROPN"
+        },
+        "stocks": {
+            "text": "stocks",
+            "lemma": "stocks",
+            "pos": "PROPN"
+        },
+        "nikei": {
+            "text": "nikei",
+            "lemma": "nikei",
+            "pos": "PROPN"
+        },
+        "money": {
+            "text": "money",
+            "lemma": "money",
+            "pos": "NOUN"
+        },
+        "market": {
+            "text": "market",
+            "lemma": "market",
+            "pos": "NOUN"
+        },
+        "shares": {
+            "text": "shares",
+            "lemma": "shar",
+            "pos": "NOUN"
+        },
+        "value": {
+            "text": "value",
+            "lemma": "value",
+            "pos": "PROPN"
+        }
+    },
+    "MOTOCICLISMO": {
+        "processed_text": [
+            "motociclismo",
+            "motogp",
+            "moto",
+            "trial",
+            "motrocross",
+            "agostini",
+            "rossi",
+            "nieto",
+            "marquez",
+            "miller",
+            "nakagami",
+            "pedrossa"
+        ],
+        "motociclismo": {
+            "text": "motociclismo",
+            "lemma": "motociclismo",
+            "pos": "NOUN"
+        },
+        "motogp": {
+            "text": "motogp",
+            "lemma": "motogp",
+            "pos": "PROPN"
+        },
+        "moto": {
+            "text": "moto",
+            "lemma": "moto",
+            "pos": "PROPN"
+        },
+        "trial": {
+            "text": "trial",
+            "lemma": "trial",
+            "pos": "ADJ"
+        },
+        "motrocross": {
+            "text": "motrocross",
+            "lemma": "motrocross",
+            "pos": "PROPN"
+        },
+        "Agostini": {
+            "text": "Agostini",
+            "lemma": "Agostini",
+            "pos": "PROPN"
+        },
+        "Rossi": {
+            "text": "Rossi",
+            "lemma": "Rossi",
+            "pos": "PROPN"
+        },
+        "Nieto": {
+            "text": "Nieto",
+            "lemma": "Nieto",
+            "pos": "PROPN"
+        },
+        "Marquez": {
+            "text": "Marquez",
+            "lemma": "Marquez",
+            "pos": "PROPN"
+        },
+        "Miller": {
+            "text": "Miller",
+            "lemma": "Miller",
+            "pos": "PROPN"
+        },
+        "Nakagami": {
+            "text": "Nakagami",
+            "lemma": "Nakagami",
+            "pos": "PROPN"
+        },
+        "Pedrossa": {
+            "text": "Pedrossa",
+            "lemma": "Pedrossa",
+            "pos": "PROPN"
+        }
+    },
+    "MUSICA": {
+        "processed_text": [
+            "musica",
+            "music",
+            "spotify",
+            "rap",
+            "concierto",
+            "festival",
+            "pop",
+            "dancehall",
+            "cantante",
+            "instrumento",
+            "rock",
+            "disco",
+            "canserbero",
+            "sabaton",
+            "disturbed",
+            "avicii",
+            "guetta",
+            "bunny",
+            "skrillex",
+            "morodo",
+            "eminem",
+            "rihanna",
+            "sitana",
+            "sabina",
+            "bieber"
+        ],
+        "musica": {
+            "text": "musica",
+            "lemma": "musica",
+            "pos": "PROPN"
+        },
+        "music": {
+            "text": "music",
+            "lemma": "music",
+            "pos": "PROPN"
+        },
+        "spotify": {
+            "text": "spotify",
+            "lemma": "spotify",
+            "pos": "PROPN"
+        },
+        "rap": {
+            "text": "rap",
+            "lemma": "rap",
+            "pos": "NOUN"
+        },
+        "trap": {
+            "text": "trap",
+            "lemma": "trap",
+            "pos": "NOUN"
+        },
+        "concierto": {
+            "text": "concierto",
+            "lemma": "concierto",
+            "pos": "NOUN"
+        },
+        "festival": {
+            "text": "festival",
+            "lemma": "festival",
+            "pos": "NOUN"
+        },
+        "pop": {
+            "text": "pop",
+            "lemma": "pop",
+            "pos": "NOUN"
+        },
+        "dancehall": {
+            "text": "dancehall",
+            "lemma": "dancehall",
+            "pos": "PROPN"
+        },
+        "productor": {
+            "text": "productor",
+            "lemma": "productor",
+            "pos": "NOUN"
+        },
+        "cantante": {
+            "text": "cantante",
+            "lemma": "cantante",
+            "pos": "NOUN"
+        },
+        "instrumentos": {
+            "text": "instrumentos",
+            "lemma": "instrumento",
+            "pos": "NOUN"
+        },
+        "rock": {
+            "text": "rock",
+            "lemma": "rock",
+            "pos": "NOUN"
+        },
+        "gira": {
+            "text": "gira",
+            "lemma": "gira",
+            "pos": "NOUN"
+        },
+        "disco": {
+            "text": "disco",
+            "lemma": "disco",
+            "pos": "NOUN"
+        },
+        "Canserbero": {
+            "text": "Canserbero",
+            "lemma": "Canserbero",
+            "pos": "PROPN"
+        },
+        "Sabaton": {
+            "text": "Sabaton",
+            "lemma": "Sabaton",
+            "pos": "PROPN"
+        },
+        "Disturbed": {
+            "text": "Disturbed",
+            "lemma": "Disturbed",
+            "pos": "PROPN"
+        },
+        "Avicii": {
+            "text": "Avicii",
+            "lemma": "Avicii",
+            "pos": "PROPN"
+        },
+        "Guetta": {
+            "text": "Guetta",
+            "lemma": "Guetta",
+            "pos": "PROPN"
+        },
+        "Bunny": {
+            "text": "Bunny",
+            "lemma": "bunny",
+            "pos": "NOUN"
+        },
+        "Skrillex": {
+            "text": "Skrillex",
+            "lemma": "Skrillex",
+            "pos": "PROPN"
+        },
+        "Morodo": {
+            "text": "Morodo",
+            "lemma": "Morodo",
+            "pos": "PROPN"
+        },
+        "Eminem": {
+            "text": "Eminem",
+            "lemma": "Eminem",
+            "pos": "PROPN"
+        },
+        "Rihanna": {
+            "text": "Rihanna",
+            "lemma": "Rihanna",
+            "pos": "PROPN"
+        },
+        "Sitana": {
+            "text": "Sitana",
+            "lemma": "Sitana",
+            "pos": "PROPN"
+        },
+        "Sabina": {
+            "text": "Sabina",
+            "lemma": "Sabina",
+            "pos": "PROPN"
+        },
+        "Bieber": {
+            "text": "Bieber",
+            "lemma": "Bieber",
+            "pos": "PROPN"
+        }
+    },
+    "S_INMOBILIARIO": {
+        "processed_text": [
+            "vivienda",
+            "piso",
+            "hipoteca",
+            "alquiler",
+            "propiedad"
+        ],
+        "inmobiliario": {
+            "text": "inmobiliario",
+            "lemma": "inmobiliario",
+            "pos": "ADJ"
+        },
+        "inmobiliaria": {
+            "text": "inmobiliaria",
+            "lemma": "inmobiliario",
+            "pos": "ADJ"
+        },
+        "viviendas": {
+            "text": "viviendas",
+            "lemma": "vivienda",
+            "pos": "NOUN"
+        },
+        "pisos": {
+            "text": "pisos",
+            "lemma": "piso",
+            "pos": "NOUN"
+        },
+        "hipoteca": {
+            "text": "hipoteca",
+            "lemma": "hipoteca",
+            "pos": "NOUN"
+        },
+        "alquiler": {
+            "text": "alquiler",
+            "lemma": "alquiler",
+            "pos": "NOUN"
+        },
+        "inmueble": {
+            "text": "inmueble",
+            "lemma": "inmueble",
+            "pos": "NOUN"
+        },
+        "hacienda": {
+            "text": "hacienda",
+            "lemma": "hacienda",
+            "pos": "NOUN"
+        },
+        "propiedad": {
+            "text": "propiedad",
+            "lemma": "propiedad",
+            "pos": "NOUN"
+        }
+    },
+    "SOCIEDAD": {
+        "processed_text": [
+            "sociedad",
+            "persona",
+            "suceso",
+            "noticia",
+            "espana"
+        ],
+        "sociedad": {
+            "text": "sociedad",
+            "lemma": "sociedad",
+            "pos": "NOUN"
+        },
+        "personas": {
+            "text": "personas",
+            "lemma": "persona",
+            "pos": "NOUN"
+        },
+        "sucesos": {
+            "text": "sucesos",
+            "lemma": "suceso",
+            "pos": "NOUN"
+        },
+        "noticias": {
+            "text": "noticias",
+            "lemma": "noticia",
+            "pos": "NOUN"
+        },
+        "general": {
+            "text": "general",
+            "lemma": "general",
+            "pos": "ADJ"
+        },
+        "espana": {
+            "text": "espana",
+            "lemma": "espana",
+            "pos": "PROPN"
+        }
+    },
+    "STARTUP": {
+        "processed_text": [
+            "startup",
+            "empresa",
+            "entrepeneur",
+            "ronda",
+            "financiacion",
+            "seed",
+            "incubadora"
+        ],
+        "startup": {
+            "text": "startup",
+            "lemma": "startup",
+            "pos": "NOUN"
+        },
+        "empresa": {
+            "text": "empresa",
+            "lemma": "empresa",
+            "pos": "NOUN"
+        },
+        "emergente": {
+            "text": "emergente",
+            "lemma": "emergente",
+            "pos": "ADJ"
+        },
+        "entrepeneur": {
+            "text": "entrepeneur",
+            "lemma": "entrepeneur",
+            "pos": "NOUN"
+        },
+        "emprendedor": {
+            "text": "emprendedor",
+            "lemma": "emprendedor",
+            "pos": "ADJ"
+        },
+        "emprendimiento": {
+            "text": "emprendimiento",
+            "lemma": "emprendimiento",
+            "pos": "NOUN"
+        },
+        "ronda": {
+            "text": "ronda",
+            "lemma": "ronda",
+            "pos": "NOUN"
+        },
+        "financiaci\u00f3n": {
+            "text": "financiaci\u00f3n",
+            "lemma": "financiaci\u00f3n",
+            "pos": "NOUN"
+        },
+        "seed": {
+            "text": "seed",
+            "lemma": "seed",
+            "pos": "PROPN"
+        },
+        "incubadora": {
+            "text": "incubadora",
+            "lemma": "incubadora",
+            "pos": "NOUN"
+        }
+    },
+    "SUCESOS": {
+        "processed_text": [
+            "viaje",
+            "travel",
+            "trip",
+            "vacacion",
+            "turismo"
+        ],
+        "viajes": {
+            "text": "viajes",
+            "lemma": "viaje",
+            "pos": "NOUN"
+        },
+        "travel": {
+            "text": "travel",
+            "lemma": "travel",
+            "pos": "PROPN"
+        },
+        "trip": {
+            "text": "trip",
+            "lemma": "trip",
+            "pos": "NOUN"
+        },
+        "vacaciones": {
+            "text": "vacaciones",
+            "lemma": "vacaci\u00f3n",
+            "pos": "NOUN"
+        },
+        "viajar": {
+            "text": "viajar",
+            "lemma": "viajar",
+            "pos": "VERB"
+        },
+        "turismo": {
+            "text": "turismo",
+            "lemma": "turismo",
+            "pos": "NOUN"
+        }
+    },
+    "TENIS": {
+        "processed_text": [
+            "tenis",
+            "wimbledon",
+            "tennis",
+            "roland",
+            "garros",
+            "cup",
+            "open",
+            "nadal",
+            "djokovic",
+            "federer",
+            "alcaraz",
+            "medvedev",
+            "zverev",
+            "tsitsipas",
+            "ruud",
+            "berrettini",
+            "kyrgios",
+            "tiafoe",
+            "opelka",
+            "monfils",
+            "goffin",
+            "swiatek",
+            "kontaveit",
+            "sakkari",
+            "badosa",
+            "jabeur",
+            "sabalenka",
+            "halep",
+            "kasatkina",
+            "kudermetova",
+            "kvitova",
+            "master",
+            "challenger",
+            "sock",
+            "slam",
+            "norrie"
+        ],
+        "tenis": {
+            "text": "tenis",
+            "lemma": "tenis",
+            "pos": "NOUN"
+        },
+        "wimbledon": {
+            "text": "wimbledon",
+            "lemma": "wimbledon",
+            "pos": "PROPN"
+        },
+        "tennis": {
+            "text": "tennis",
+            "lemma": "tennis",
+            "pos": "PROPN"
+        },
+        "roland garros": {
+            "text": "roland",
+            "lemma": "roland",
+            "pos": "PROPN"
+        },
+        "cup": {
+            "text": "cup",
+            "lemma": "cup",
+            "pos": "PROPN"
+        },
+        "open": {
+            "text": "open",
+            "lemma": "open",
+            "pos": "PROPN"
+        },
+        "Nadal": {
+            "text": "Nadal",
+            "lemma": "Nadal",
+            "pos": "PROPN"
+        },
+        "Djokovic": {
+            "text": "Djokovic",
+            "lemma": "Djokovic",
+            "pos": "PROPN"
+        },
+        "Federer": {
+            "text": "Federer",
+            "lemma": "Federer",
+            "pos": "PROPN"
+        },
+        "Alcaraz": {
+            "text": "Alcaraz",
+            "lemma": "Alcaraz",
+            "pos": "PROPN"
+        },
+        "Medvedev": {
+            "text": "Medvedev",
+            "lemma": "Medvedev",
+            "pos": "PROPN"
+        },
+        "Zverev": {
+            "text": "Zverev",
+            "lemma": "Zverev",
+            "pos": "PROPN"
+        },
+        "Tsitsipas": {
+            "text": "Tsitsipas",
+            "lemma": "Tsitsipas",
+            "pos": "PROPN"
+        },
+        "Ruud": {
+            "text": "Ruud",
+            "lemma": "Ruud",
+            "pos": "PROPN"
+        },
+        "Berrettini": {
+            "text": "Berrettini",
+            "lemma": "Berrettini",
+            "pos": "PROPN"
+        },
+        "Kyrgios": {
+            "text": "Kyrgios",
+            "lemma": "kyrgio",
+            "pos": "ADJ"
+        },
+        "Tiafoe": {
+            "text": "Tiafoe",
+            "lemma": "Tiafoe",
+            "pos": "PROPN"
+        },
+        "Opelka": {
+            "text": "Opelka",
+            "lemma": "Opelka",
+            "pos": "PROPN"
+        },
+        "Monfils": {
+            "text": "Monfils",
+            "lemma": "Monfils",
+            "pos": "PROPN"
+        },
+        "Goffin": {
+            "text": "Goffin",
+            "lemma": "Goffin",
+            "pos": "PROPN"
+        },
+        "Swiatek": {
+            "text": "Swiatek",
+            "lemma": "Swiatek",
+            "pos": "PROPN"
+        },
+        "Kontaveit": {
+            "text": "Kontaveit",
+            "lemma": "Kontaveit",
+            "pos": "PROPN"
+        },
+        "Sakkari": {
+            "text": "Sakkari",
+            "lemma": "Sakkari",
+            "pos": "PROPN"
+        },
+        "Badosa": {
+            "text": "Badosa",
+            "lemma": "Badosa",
+            "pos": "PROPN"
+        },
+        "Jabeur": {
+            "text": "Jabeur",
+            "lemma": "Jabeur",
+            "pos": "PROPN"
+        },
+        "Sabalenka": {
+            "text": "Sabalenka",
+            "lemma": "Sabalenka",
+            "pos": "PROPN"
+        },
+        "Halep": {
+            "text": "Halep",
+            "lemma": "Halep",
+            "pos": "PROPN"
+        },
+        "Kasatkina": {
+            "text": "Kasatkina",
+            "lemma": "Kasatkina",
+            "pos": "PROPN"
+        },
+        "Kudermetova": {
+            "text": "Kudermetova",
+            "lemma": "Kudermetova",
+            "pos": "PROPN"
+        },
+        "Kvitova": {
+            "text": "Kvitova",
+            "lemma": "Kvitova",
+            "pos": "PROPN"
+        },
+        "atp": {
+            "text": "atp",
+            "lemma": "atp",
+            "pos": "ADJ"
+        },
+        "masters": {
+            "text": "masters",
+            "lemma": "master",
+            "pos": "NOUN"
+        },
+        "challenger": {
+            "text": "challenger",
+            "lemma": "challenger",
+            "pos": "PROPN"
+        },
+        "sock": {
+            "text": "sock",
+            "lemma": "sock",
+            "pos": "NOUN"
+        },
+        "slam": {
+            "text": "slam",
+            "lemma": "slam",
+            "pos": "PROPN"
+        },
+        "tenista": {
+            "text": "tenista",
+            "lemma": "tenista",
+            "pos": "NOUN"
+        },
+        "Norrie": {
+            "text": "Norrie",
+            "lemma": "Norrie",
+            "pos": "PROPN"
+        }
+    },
+    "VIAJES": {
+        "processed_text": [
+            "viaje",
+            "travel",
+            "trip",
+            "vacacion",
+            "turismo"
+        ],
+        "viajes": {
+            "text": "viajes",
+            "lemma": "viaje",
+            "pos": "NOUN"
+        },
+        "travel": {
+            "text": "travel",
+            "lemma": "travel",
+            "pos": "PROPN"
+        },
+        "trip": {
+            "text": "trip",
+            "lemma": "trip",
+            "pos": "NOUN"
+        },
+        "vacaciones": {
+            "text": "vacaciones",
+            "lemma": "vacaci\u00f3n",
+            "pos": "NOUN"
+        },
+        "viajar": {
+            "text": "viajar",
+            "lemma": "viajar",
+            "pos": "VERB"
+        },
+        "turismo": {
+            "text": "turismo",
+            "lemma": "turismo",
+            "pos": "NOUN"
+        }
+    }
+}
